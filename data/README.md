@@ -1,6 +1,10 @@
 # chi-biz
 Location of all Chicago Businesses that pay taxes to the state
 
+# Annual Taxpayer Location Address List
+Source: http://www.revenue.state.il.us/LocalGovernment/Overview/RetailersVerification/locationlist.htm
+
+
  Field	| Description 
 -------|-------------
 Illinois Business Tax Number	| Tax number registered with the Illinois Department of Revenue 
