@@ -12,5 +12,5 @@ zip_sic_M <- slam::as.simple_triplet_matrix(table(businesses$zip5,
 
 model_1 <- topicmodels::LDA(zip_sic_M, 10)
 
-topics <- terms(model_1, 10)
+topicmodels::terms(model_1, 10)
 
