@@ -1,0 +1,1505 @@
+code,name,naics_correlations
+2515,"Mattresses, Foundations, and Convertible Beds","['337121', '337910']"
+3061,"Molded, Extruded, and Lathe-cut Mechanical Rubber Goods",['326291']
+4812,Radiotelephone Communications,"['517210', '517911', '517210']"
+5182,Wine and Distilled Alcoholic Beverages,"['425120', '425110', '424820', '445310']"
+7371,Computer Programming Services,['541511']
+07,Agricultural Services,
+178,Water Well Drilling,
+735,Miscellaneous Equipment Rental and Leasing,
+7832,"Motion Picture Theaters, except Drive-in",['512131']
+609,Functions Related To Depository Banking,
+608,Foreign Banking and Branches and Agencies of Foreign Banks,
+7213,Linen Supply,['812331']
+5139,Footwear,"['425120', '425110', '448210', '424340']"
+4449,"Water Transportation of Freight, Not Elsewhere Classified",['483211']
+229,Miscellaneous Textile Goods,
+2892,Explosives,['325920']
+621,"Security Brokers, Dealers, and Flotation Companies",
+321,Flat Glass,
+1081,Metal Mining Services,"['213114', '541360', '238910']"
+3356,"Rolling, Drawing, and Extruding of Nonferrous Metals, except Copp",['331491']
+261,Pulp Mills,
+801,Offices and Clinics of Doctors of Medicine,
+899,"Services, Not Elsewhere Classified",
+391,"Jewelry, Silverware, and Plated Ware",
+598,Fuel Dealers,
+871,"Engineering, Architectural, and Surveying Services",
+162,"Heavy Construction, except Highway and Street Construction",
+84,"Museums, Art Galleries, and Botanical and Zoological Gardens",
+2384,Robes and Dressing Gowns,"['315211', '315221', '315231', '315212']"
+5461,Retail Bakeries,"['311811', '445291', '722213']"
+243,"Millwork, Veneer, Plywood, and Structural Wood Members",
+3663,Radio and Television Broadcasting and Communications Equipment,['334220']
+8331,Job Training and Vocational Rehabilitation Services,['624310']
+7623,Refrigeration and Air-conditioning Service and Repair Shops,"['811412', '811310', '443111']"
+5944,Jewelry Stores,['448310']
+6331,"Fire, Marine, and Casualty Insurance","['524128', '524126', '524130', '525190']"
+3724,Aircraft Engines and Engine Parts,"['336412', '541712']"
+2436,Softwood Veneer and Plywood,['321212']
+7997,Membership Sports and Recreation Clubs,"['481219', '488119', '713910', '713940', '713990']"
+8072,Dental Laboratories,['339116']
+02,Agricultural Production-livestock and Animal Specialties,
+5153,Grain and Field Beans,"['425120', '425110', '444220', '424510']"
+48,Communications,
+3562,Ball and Roller Bearings,['332991']
+2329,"Men's and Boys' Clothing, Not Elsewhere Classified","['315211', '315228', '315299']"
+4111,Local and Suburban Transit,"['485999', '485113', '485112', '485119', '485111']"
+4822,Telegraph and Other Message Communications,['517110']
+2394,Canvas and Related Products,['314912']
+5052,Coal and Other Minerals and Ores,"['425120', '425110', '423520']"
+3489,"Ordnance and Accessories, Not Elsewhere Classified",['332995']
+3556,Food Products Machinery,['333294']
+5031,"Lumber, Plywood, Millwork, and Wood Panels","['425120', '425110', '423310', '444110']"
+361,Electric Transmission and Distribution Equipment,
+3695,Magnetic and Optical Recording Media,['334613']
+5136,Men's and Boys' Clothing and Furnishings,"['425120', '425110', '424320', '448110', '423910', '448190']"
+5271,Mobile Home Dealers,['453930']
+2822,Synthetic Rubber (vulcanizable Elastomers),['325212']
+2075,Soybean Oil Mills,"['311225', '311222']"
+5599,"Automotive Dealers, Not Elsewhere Classified",['441229']
+2086,Bottled and Canned Soft Drinks and Carbonated Waters,"['312112', '312111']"
+8742,Management Consulting Services,"['541611', '541612', '541614', '541613']"
+4832,Radio Broadcasting Stations,"['515112', '515111']"
+384,"Surgical, Medical, and Dental Instruments and Supplies",
+7323,Credit Reporting Services,['561450']
+348,"Ordnance and Accessories, except Vehicles and Guided Missiles",
+8093,"Specialty Outpatient Facilities, Not Elsewhere Classified","['621498', '621410', '621420', '621399']"
+0752,"Animal Specialty Services, except Veterinary","['115210', '812910']"
+65,Real Estate,
+138,Oil and Gas Field Services,
+4119,"Local Passenger Transportation, Not Elsewhere Classified","['485410', '485999', '621910', '485320', '487110', '485991']"
+8221,"Colleges, Universities, and Professional Schools",['611310']
+4971,Irrigation Systems,['221310']
+319,"Leather Goods, Not Elsewhere Classified",
+2679,"Converted Paper and Paperboard Products, Not Elsewhere Classified","['322299', '322211', '322231', '322222']"
+5641,Children's and Infants' Wear Stores,['448130']
+3331,Primary Smelting and Refining of Copper,['331411']
+2671,"Packaging Paper and Plastics Film, Coated and Laminated","['322221', '326112']"
+448,Water Transportation of Passengers,
+5441,"Candy, Nut, and Confectionery Stores","['311330', '445292', '311340']"
+5921,Liquor Stores,['445310']
+5192,"Books, Periodicals, and Newspapers","['425120', '425110', '424920', '451211']"
+2385,Waterproof Outerwear,"['315999', '315291', '315211', '315228', '315222', '315299', '315239', '315234', '315212']"
+2821,"Plastics Materials, Synthetic Resins, and Nonvulcanizable Elastom",['325211']
+279,Service Industries For The Printing Trade,
+2221,"Broadwoven Fabric Mills, Manmade Fiber and Silk",['313210']
+3961,"Costume Jewelry and Costume Novelties, except Precious Metal","['339914', '339993']"
+5941,Sporting Goods Stores and Bicycle Shops,['451110']
+5039,"Construction Materials, Not Elsewhere Classified","['425120', '425110', '444190', '423390', '423310']"
+2097,Manufactured Ice,['312113']
+0783,Ornamental Shrub and Tree Services,['561730']
+3398,Metal Heat Treating,['332811']
+502,Furniture and Homefurnishings,
+2653,Corrugated and Solid Fiber Boxes,['322211']
+3421,Cutlery,"['332211', '332212']"
+7349,"Building Cleaning and Maintenance Services, Not Elsewhere Classif","['561720', '561790']"
+5014,Tires and Tubes,"['425120', '425110', '423130', '441320']"
+326,Pottery and Related Products,
+3996,"Linoleum, Asphalted-felt-base, and Other Hard Surface Floor Cover",['326192']
+839,"Social Services, Not Elsewhere Classified",
+3631,Household Cooking Equipment,['335221']
+943,Administration of Public Health Programs,
+227,Carpets and Rugs,
+3083,"Laminated Plastics Plate, Sheet, and Profile Shapes",['326130']
+253,Public Building and Related Furniture,
+3625,Relays and Industrial Controls,['335314']
+2819,"Industrial Inorganic Chemicals, Not Elsewhere Classified","['325998', '331311', '325188', '325131', '211112']"
+3085,Plastics Bottles,['326160']
+5813,Drinking Places (alcoholic Beverages),['722410']
+3353,"Aluminum Sheet, Plate, and Foil",['331315']
+7812,Motion Picture and Video Tape Production,['512110']
+2141,Tobacco Stemming and Redrying,"['312229', '312210']"
+511,Paper and Paper Products,
+3542,"Machine Tools, Metal Forming Types",['333513']
+2842,"Specialty Cleaning, Polishing, and Sanitation Preparations",['325612']
+3691,Storage Batteries,['335911']
+7948,"Racing, Including Track Operation","['711219', '711212']"
+3694,Electrical Equipment For Internal Combustion Engines,['336322']
+88,Private Households,
+783,Motion Picture Theaters,
+7291,Tax Return Preparation Services,['541213']
+3547,Rolling Mill Machinery and Equipment,['333516']
+2024,Ice Cream and Frozen Desserts,['311520']
+592,Liquor Stores,
+2449,"Wood Containers, Not Elsewhere Classified",['321920']
+863,Labor Unions and Similar Labor Organizations,
+3272,"Concrete Products, except Block and Brick","['327332', '327390', '327999']"
+5571,Motorcycle Dealers,['441221']
+097,"Hunting and Trapping, and Game Propagation",
+0253,Turkeys and Turkey Eggs,['112330']
+5033,"Roofing, Siding, and Insulation Materials","['425120', '425110', '423330', '444190']"
+1459,"Clay, Ceramic, and Refractory Minerals, Not Elsewhere Classified",['212325']
+4499,"Water Transportation Services, Not Elsewhere Classified","['488390', '532411', '483211', '488310', '541990', '488330']"
+7539,"Automotive Repair Shops, Not Elsewhere Classified","['811198', '811118']"
+5171,Petroleum Bulk Stations and Terminals,"['424710', '454311', '454312']"
+267,"Converted Paper and Paperboard Products, except Containers and Box",
+5137,"Women's, Children's, and Infants' Clothing and Accessories","['425120', '425110', '424330', '448190', '423910', '448130', '448120']"
+8059,"Nursing and Personal Care Facilities, Not Elsewhere Classified","['623311', '623110', '623210']"
+3715,Truck Trailers,['336212']
+3585,Air-conditioning and Warm Air Heating Equipment and Commercial An,"['333415', '336391']"
+565,Family Clothing Stores,
+5078,Refrigeration Equipment and Supplies,"['425120', '425110', '423740']"
+2032,Canned Specialties,"['311999', '311422']"
+4424,Deep Sea Domestic Transportation of Freight,['483113']
+3433,"Heating Equipment, except Electric and Warm Air Furnaces",['333414']
+2064,Candy and Other Confectionery Products,"['311330', '311340']"
+912,Legislative Bodies,
+6324,Hospital and Medical Service Plans,"['524114', '524130', '525190']"
+5162,Plastics Materials and Basic Forms and Shapes,"['425120', '425110', '424610', '453998']"
+862,Professional Membership Organizations,
+2046,Wet Corn Milling,"['311221', '311225']"
+2051,"Bread and Other Bakery Products, except Cookies and Crackers",['311812']
+3634,Electric Housewares and Fans,"['339999', '335211', '333414']"
+2092,Prepared Fresh Or Frozen Fish and Seafoods,['311712']
+701,Hotels and Motels,
+723,Beauty Shops,
+573,"Radio, Television, Consumer Electronics, and Music Stores",
+5045,Computers and Computer Peripheral Equipment and Software,"['425120', '425110', '443120', '423430']"
+6035,"Savings Institutions, Federally Chartered",['522120']
+3316,"Cold-rolled Steel Sheet, Strip, and Bars",['331221']
+655,Land Subdividers and Developers,
+13,Oil and Gas Extraction,
+593,Used Merchandise Stores,
+236,"Girls', Children's, and Infants' Outerwear",
+7631,"Watch, Clock, and Jewelry Repair","['811490', '448310']"
+9721,International Affairs,['928120']
+732,"Consumer Credit Reporting Agencies, Mercantile Reporting Agencies,",
+606,Credit Unions,
+3443,Fabricated Plate Work (boiler Shops),"['332313', '332420', '333415', '332410']"
+12,Coal Mining,
+4932,Gas and Other Services Combined,['221210']
+6726,"Unit Investment Trusts, Face-amount Certificate Offices, and Clos",['525990']
+3572,Computer Storage Devices,['334112']
+3544,"Special Dies and Tools, Die Sets, Jigs and Fixtures, and Industri","['333514', '333511']"
+2621,Paper Mills,"['322121', '322122']"
+2672,"Coated and Laminated Paper, Not Elsewhere Classified",['322222']
+482,Telegraph and Other Message Communications,
+7521,Automobile Parking,['812930']
+224,"Narrow Fabric and Other Smallwares Mills: Cotton, Wool, Silk, And",
+3842,"Orthopedic, Prosthetic, and Surgical Appliances and Supplies","['339999', '334510', '339113', '322291']"
+3534,Elevators and Moving Stairways,['333921']
+3541,"Machine Tools, Metal Cutting Types",['333512']
+1781,Water Well Drilling,['237110']
+3931,Musical Instruments,['339992']
+4212,Local Trucking Without Storage,"['484110', '562112', '484210', '562119', '562111', '484220']"
+542,"Meat and Fish (seafood) Markets, Including Freezer Provisioners",
+3965,"Fasteners, Buttons, Needles, and Pins",['339993']
+726,Funeral Service and Crematories,
+016,Vegetables and Melons,
+3084,Plastics Pipe,['326122']
+5411,Grocery Stores,"['447110', '445120', '445110', '454390', '452910']"
+207,Fats and Oils,
+5092,Toys and Hobby Goods and Supplies,"['425120', '425110', '423920', '451120']"
+55,Automotive Dealers and Gasoline Service Stations,
+512,"Drugs, Drug Proprietaries, and Druggists' Sundries",
+99,Nonclassifiable Establishments,
+89,"Services, Not Elsewhere Classified",
+8621,Professional Membership Organizations,['813920']
+0161,Vegetables and Melons,['111219']
+2511,"Wood Household Furniture, except Upholstered","['337122', '337215']"
+41,Local and Suburban Transit and Interurban Highway Passenger Transportation,
+63,Insurance Carriers,
+4222,Refrigerated Warehousing and Storage,['493120']
+0921,Fish Hatcheries and Preserves,"['112511', '112512']"
+0175,Deciduous Tree Fruits,"['111331', '111339']"
+602,Commercial Banks,
+22,Textile Mill Products,
+334,Secondary Smelting and Refining of Nonferrous Metals,
+231,"Men's and Boys' Suits, Coats, and Overcoats",
+7929,"Bands, Orchestras, Actors, and Other Entertainers and Entertainme","['711190', '711510', '711130']"
+3411,Metal Cans,['332431']
+4491,Marine Cargo Handling,"['488320', '488310']"
+4141,Local Bus Charter Service,['485510']
+315,Leather Gloves and Mittens,
+3639,"Household Appliances, Not Elsewhere Classified","['335228', '335212', '333298']"
+3674,Semiconductors and Related Devices,['334413']
+5561,Recreational Vehicle Dealers,['441210']
+95,Administration of Environmental Quality and Housing Programs,
+8021,Offices and Clinics of Dentists,['621210']
+3021,Rubber and Plastics Footwear,['316211']
+873,"Research, Development, and Testing Services",
+7996,Amusement Parks,['713110']
+3911,"Jewelry, Precious Metal",['339911']
+3412,"Metal Shipping Barrels, Drums, Kegs, and Pails",['332439']
+3253,Ceramic Wall and Floor Tile,['327122']
+1499,"Miscellaneous Nonmetallic Minerals, except Fuels","['212319', '212399']"
+506,Electrical Goods,
+7352,Medical Equipment Rental and Leasing,"['532291', '532490']"
+3351,"Rolling, Drawing, and Extruding of Copper",['331421']
+461,"Pipelines, except Natural Gas",
+412,Taxicabs,
+8049,"Offices and Clinics of Health Practitioners, Not Elsewhere Classi","['621399', '621330', '621340']"
+4923,Natural Gas Transmission and Distribution,"['221210', '486210']"
+234,"Women's, Misses', Children's, and Infants' Undergarments",
+423,Terminal and Joint Terminal Maintenance Facilities For Motor Freig,
+152,General Building Contractors-residential Buildings,
+9229,"Public Order and Safety, Not Elsewhere Classified",['922190']
+6351,Surety Insurance,"['524126', '524130', '524128']"
+51,Wholesale Trade&die;nondurable Goods,
+2023,"Dry, Condensed, and Evaporated Dairy Products","['311514', '311511']"
+5211,Lumber and Other Building Materials Dealers,"['444190', '444110']"
+3861,Photographic Equipment and Supplies,"['333315', '325992']"
+5199,"Nondurable Goods, Not Elsewhere Classified","['541890', '425120', '425110', '453220', '424990', '424340', '424610', '424310', '453910', '453991']"
+8042,Offices and Clinics of Optometrists,['621320']
+945,"Administration of Veterans' Affairs, except Health and Insurance",
+3714,Motor Vehicle Parts and Accessories,"['336340', '336211', '336399', '336312', '336330', '336350', '336322']"
+3442,"Metal Doors, Sash, Frames, Molding, and Trim",['332321']
+3641,Electric Lamp Bulbs and Tubes,['335110']
+3543,Industrial Patterns,['332997']
+3262,Vitreous China Table and Kitchen Articles,['327112']
+3325,"Steel Foundries, Not Elsewhere Classified",['331513']
+4011,"Railroads, Line-haul Operating",['482111']
+551,Motor Vehicle Dealers (new and Used),
+4724,Travel Agencies,['561510']
+79,Amusement and Recreation Services,
+415,School Buses,
+478,Miscellaneous Services Incidental To Transportation,
+3799,"Transportation Equipment, Not Elsewhere Classified","['336214', '336999', '336399', '333924']"
+1743,"Terrazzo, Tile, Marble, and Mosaic Work","['238340', '238310']"
+4231,Terminal and Joint Terminal Maintenance Facilities For Motor Frei,['488490']
+722,"Photographic Studios, Portrait",
+6553,Cemetery Subdividers and Developers,['812220']
+3536,"Overhead Traveling Cranes, Hoists, and Monorail Systems",['333923']
+278,"Blankbooks, Looseleaf Binders, and Bookbinding and Related Work",
+369,"Miscellaneous Electrical Machinery, Equipment, and Supplies",
+8043,Offices and Clinics of Podiatrists,['621391']
+027,Animal Specialties,
+3281,Cut Stone and Stone Products,['327991']
+7363,Help Supply Services,"['561330', '561320']"
+2131,Chewing and Smoking Tobacco and Snuff,['312229']
+233,"Women's, Misses', and Juniors' Outerwear",
+4952,Sewerage Systems,['221320']
+3579,"Office Machines, Not Elsewhere Classified","['333313', '339942', '334518']"
+54,Food Stores,
+1241,Coal Mining Services,"['213113', '238910']"
+417,Terminal and Service Facilities For Motor Vehicle Passenger Transp,
+431,United States Postal Service,
+0219,"General Livestock, except Dairy and Poultry",['112990']
+20,Food and Kindred Products,
+242,Sawmills and Planing Mills,
+2391,Curtains and Draperies,['314121']
+5099,"Durable Goods, Not Elsewhere Classified","['425120', '451110', '425110', '451120', '444190', '423990', '451220']"
+1099,"Miscellaneous Metal Ores, Not Elsewhere Classified",['212299']
+93,"Public Finance, Taxation, and Monetary Policy",
+5699,Miscellaneous Apparel and Accessory Stores,"['448150', '315233', '315222', '315223', '448190']"
+544,"Candy, Nut, and Confectionery Stores",
+869,"Membership Organizations, Not Elsewhere Classified",
+2041,Flour and Other Grain Mill Products,['311211']
+5082,Construction and Mining (except Petroleum) Machinery and Equipmen,"['425120', '425110', '423810']"
+2296,Tire Cord and Fabrics,['314992']
+25,Furniture and Fixtures,
+5712,Furniture Stores,"['337121', '337122', '337110', '442110']"
+2789,Bookbinding and Related Work,['323121']
+5231,"Paint, Glass, and Wallpaper Stores","['444120', '444190']"
+235,"Hats, Caps, and Millinery",
+52,"Building Materials, Hardware, Garden Supply, and Mobile Home Dealers",
+0211,Beef Cattle Feedlots,['112112']
+0721,"Crop Planting, Cultivating, and Protecting",['115112']
+75,"Automotive Repair, Services, and Parking",
+2899,"Chemicals and Chemical Preparations, Not Elsewhere Classified","['325998', '325199', '325510', '311942']"
+322,"Glass and Glassware, Pressed Or Blown",
+2522,"Office Furniture, except Wood",['337214']
+641,"Insurance Agents, Brokers, and Service",
+493,"Combination Electric and Gas, and Other Utility Services",
+335,"Rolling, Drawing, and Extruding of Nonferrous Metals",
+161,"Highway and Street Construction, except Elevated Highways",
+6021,National Commercial Banks,"['522110', '522210']"
+3743,Railroad Equipment,"['336510', '333911']"
+972,International Affairs,
+2085,Distilled and Blended Liquors,"['312130', '312140']"
+3255,Clay Refractories,['327124']
+9223,Correctional Institutions,['922140']
+0182,Food Crops Grown Under Cover,"['111419', '111411']"
+5611,Men's and Boys' Clothing and Accessory Stores,"['448150', '448110']"
+5043,Photographic Equipment and Supplies,"['425120', '425110', '423410']"
+4833,Television Broadcasting Stations,['515120']
+8361,Residential Care,"['623990', '623312', '623210', '623220']"
+6361,Title Insurance,"['524130', '524127']"
+3269,"Pottery Products, Not Elsewhere Classified",['327112']
+0173,Tree Nuts,['111335']
+8713,Surveying Services,"['541370', '541360']"
+523,"Paint, Glass, and Wallpaper Stores",
+172,Painting and Paper Hanging,
+3446,Architectural and Ornamental Metalwork,['332323']
+804,Offices and Clinics of Other Health Practitioners,
+5947,"Gift, Novelty, and Souvenir Shops",['453220']
+9211,Courts,['922110']
+2331,"Women's, Misses', and Juniors' Blouses and Shirts","['315212', '315232']"
+6082,Foreign Trade and International Banking Institutions,"['522298', '522293']"
+3466,Crowns and Closures,['332115']
+2298,Cordage and Twine,"['314991', '313111']"
+5087,Service Establishment Equipment and Supplies,"['425120', '446120', '425110', '423850']"
+1531,Operative Builders,"['236220', '236210', '236117', '236118']"
+2074,Cottonseed Oil Mills,"['311223', '311225']"
+3633,Household Laundry Equipment,['335224']
+5149,"Groceries and Related Products, Not Elsewhere Classified","['425120', '425110', '445299', '424490', '453910', '312112']"
+919,"General Government, Not Elsewhere Classified",
+7359,"Equipment Rental and Leasing, Not Elsewhere Classified","['532411', '532210', '532299', '532310', '532490', '532420', '532412', '562991']"
+3545,"Cutting Tools, Machine Tool Accessories, and Machinists' Precisio","['332212', '333515']"
+1611,"Highway and Street Construction, except Elevated Highways",['237310']
+0291,"General Farms, Primarily Livestock and Animal Specialties",['112990']
+2321,"Men's and Boys' Shirts, except Work Shirts","['315211', '315223']"
+3537,"Industrial Trucks, Tractors, Trailers, and Stackers","['333924', '332439', '332999']"
+078,Landscape and Horticultural Services,
+2052,Cookies and Crackers,"['311821', '311919', '311812']"
+8031,Offices and Clinics of Doctors of Osteopathy,"['621111', '621112']"
+7211,"Power Laundries, Family and Commercial",['812320']
+9221,Police Protection,['922120']
+1622,"Bridge, Tunnel, and Elevated Highway Construction","['237310', '237990']"
+5143,"Dairy Products, except Dried Or Canned","['425120', '425110', '445299', '424430']"
+0179,"Fruits and Tree Nuts, Not Elsewhere Classified","['111336', '111339']"
+3566,"Speed Changers, Industrial High-speed Drives, and Gears",['333612']
+6221,Commodity Contracts Brokers and Dealers,"['523140', '523130']"
+3821,Laboratory Apparatus and Furniture,['339113']
+1794,Excavation Work,['238910']
+9512,"Land, Mineral, Wildlife, and Forest Conservation",['924120']
+561,Men's and Boys' Clothing and Accessory Stores,
+3369,"Nonferrous Foundries, except Aluminum and Copper",['331528']
+2254,Knit Underwear and Nightwear Mills,"['313312', '315192']"
+3452,"Bolts, Nuts, Screws, Rivets, and Washers",['332722']
+8741,Management Services,"['236220', '237990', '237120', '237130', '237110', '561110', '237310', '236210', '236116', '236118', '236115']"
+809,"Miscellaneous Health and Allied Services, Not Elsewhere Classified",
+491,Electric Services,
+5154,Livestock,"['425120', '425110', '424520']"
+5551,Boat Dealers,['441222']
+5994,News Dealers and Newsstands,['451212']
+0212,"Beef Cattle, except Feedlots",['112111']
+7532,"Top, Body, and Upholstery Repair Shops and Paint Shops",['811121']
+931,"Public Finance, Taxation, and Monetary Policy",
+654,Title Abstract Offices,
+2836,"Biological Products, except Diagnostic Substances",['325414']
+4121,Taxicabs,['485310']
+327,"Concrete, Gypsum, and Plaster Products",
+349,Miscellaneous Fabricated Metal Products,
+1044,Silver Ores,['212222']
+3482,Small Arms Ammunition,['332992']
+751,"Automotive Rental and Leasing, Without Drivers",
+572,Household Appliance Stores,
+59,Miscellaneous Retail,
+5812,Eating Places,"['722212', '722320', '711110', '722310', '722110', '722211', '722213']"
+474,Rental of Railroad Cars,
+0781,Landscape Counseling and Planning,"['541320', '541690']"
+1221,Bituminous Coal and Lignite Surface Mining,['212111']
+245,Wood Buildings and Mobile Homes,
+3263,Fine Earthenware (whiteware) Table and Kitchen Articles,['327112']
+7833,Drive-in Motion Picture Theaters,['512132']
+5091,Sporting and Recreational Goods and Supplies,"['425120', '425110', '423910', '451110']"
+7692,Welding Repair,['811310']
+336,Nonferrous Foundries (castings),
+33,Primary Metal Industries,
+3355,"Aluminum Rolling and Drawing, Not Elsewhere Classified",['331319']
+961,Administration of General Economic Programs,
+3081,Unsupported Plastics Film and Sheet,['326113']
+734,Services To Dwellings and Other Buildings,
+2035,"Pickled Fruits and Vegetables, Vegetable Sauces and Seasonings, A","['311421', '311941']"
+7251,Shoe Repair Shops and Shoeshine Parlors,"['812320', '811430', '812990']"
+7841,Video Tape Rental,['532230']
+2066,Chocolate and Cocoa Products,"['311330', '311320']"
+581,Eating and Drinking Places,
+3711,Motor Vehicles and Passenger Car Bodies,"['336111', '336120', '336211', '336112', '336992']"
+401,Railroads,
+7033,Recreational Vehicle Parks and Campsites,['721211']
+2079,"Shortening, Table Oils, Margarine, and Other Edible Fats and Oils","['311223', '311225', '311222']"
+2611,Pulp Mills,"['322122', '322121', '322130', '322110']"
+5047,"Medical, Dental, and Hospital Equipment and Supplies","['425120', '425110', '423450', '446199']"
+754,"Automotive Services, except Repair",
+525,Hardware Stores,
+5013,Motor Vehicle Supplies and New Parts,"['425120', '441310', '425110', '423120']"
+0742,Veterinary Services For Animal Specialties,['541940']
+628,Services Allied With The Exchange of Securities Or Commodities,
+49,"Electric, Gas, and Sanitary Services",
+8611,Business Associations,['813910']
+4961,Steam and Air-conditioning Supply,['221330']
+305,"Gaskets, Packing, and Sealing Devices and Rubber and Plastics Hose",
+733,"Mailing, Reproduction, Commercial Art and Photography, and Stenogr",
+86,Membership Organizations,
+3082,Unsupported Plastics Profile Shapes,['326121']
+3652,Phonograph Records and Prerecorded Audio Tapes and Disks,"['512220', '334612']"
+2369,"Girls', Children's, and Infants' Outerwear, Not Elsewhere Classif","['315211', '315228', '315221', '315222', '315224', '315212', '315239', '315231', '315234', '315291']"
+653,Real Estate Agents and Managers,
+8731,Commercial Physical and Biological Research,['541711']
+1629,"Heavy Construction, Not Elsewhere Classified","['237110', '237990', '236210', '237120', '237130', '238910']"
+0851,Forestry Services,['115310']
+092,Fish Hatcheries and Preserves,
+622,Commodity Contracts Brokers and Dealers,
+591,Drug Stores and Proprietary Stores,
+864,"Civic, Social, and Fraternal Associations",
+3131,Boot and Shoe Cut Stock and Findings,"['316999', '339993', '321999']"
+3661,Telephone and Telegraph Apparatus,"['334418', '334210']"
+1321,Natural Gas Liquids,['211112']
+9711,National Security,['928110']
+1542,"General Contractors-nonresidential Buildings, Other Than Industri",['236220']
+452,"Air Transportation, Nonscheduled",
+3732,Boat Building and Repairing,"['336612', '811490']"
+963,"Regulation and Administration of Communications, Electric, Gas, An",
+3824,Totalizing Fluid Meters and Counting Devices,['334514']
+5932,Used Merchandise Stores,"['453310', '522298']"
+347,"Coating, Engraving, and Allied Services",
+201,Meat Products,
+569,Miscellaneous Apparel and Accessory Stores,
+7538,General Automotive Repair Shops,['811111']
+73,Business Services,
+5093,Scrap and Waste Materials,"['425120', '425110', '423930']"
+3596,"Scales and Balances, except Laboratory",['333997']
+283,Drugs,
+173,Electrical Work,
+2386,Leather and Sheep-lined Clothing,"['315292', '315211', '315212']"
+636,Title Insurance,
+2895,Carbon Black,['325182']
+205,Bakery Products,
+3568,"Mechanical Power Transmission Equipment, Not Elsewhere Classified",['333613']
+5999,"Miscellaneous Retail Stores, Not Elsewhere Classified","['453920', '453998', '446120', '446199', '339113', '453910', '443112']"
+3632,Household Refrigerators and Home and Farm Freezers,['335222']
+2251,"Women's Full-length and Knee-length Hosiery, except Socks","['313312', '315111']"
+1061,"Ferroalloy Ores, except Vanadium","['212234', '212299']"
+0761,Farm Labor Contractors and Crew Leaders,['115115']
+3431,Enameled Iron and Metal Sanitary Ware,['332998']
+7241,Barber Shops,"['611511', '812111']"
+4612,Crude Petroleum Pipelines,['486110']
+7384,Photofinishing Laboratories,"['812921', '812922']"
+83,Social Services,
+7331,Direct Mail Advertising Services,"['541860', '511140']"
+3053,"Gaskets, Packing, and Sealing Devices",['339991']
+313,Boot and Shoe Cut Stock and Findings,
+5621,Women's Clothing Stores,"['448190', '448120']"
+3823,"Industrial Instruments For Measurement, Display, and Control of P",['334513']
+2591,Drapery Hardware and Window Blinds and Shades,['337920']
+6513,Operators of Apartment Buildings,['531110']
+2281,Yarn Spinning Mills,['313111']
+364,Electric Lighting and Wiring Equipment,
+8733,Noncommercial Research Organizations,"['541712', '541712']"
+2311,"Men's and Boys' Suits, Coats, and Overcoats","['315211', '315222']"
+6514,Operators of Dwellings Other Than Apartment Buildings,['531110']
+2282,"Acetate Filament Yarn: Throwing, Twisting, Winding, Or Spooling",['313112']
+276,Manifold Business Forms,
+2068,Salted and Roasted Nuts and Seeds,['311911']
+3494,"Valves and Pipe Fittings, Not Elsewhere Classified","['332919', '332999']"
+3554,Paper Industries Machinery,['333291']
+449,Services Incidental To Water Transportation,
+381,"Search, Detection, Navigation, Guidance, Aeronautical, and Nautica",
+147,Chemical and Fertilizer Mineral Mining,
+3713,Truck and Bus Bodies,['336211']
+148,"Nonmetallic Minerals Services, except Fuels",
+274,Miscellaneous Publishing,
+0171,Berry Crops,"['111334', '111333']"
+5331,Variety Stores,['452990']
+545,Dairy Products Stores,
+249,Miscellaneous Wood Products,
+09,"Fishing, Hunting, and Trapping",
+37,Transportation Equipment,
+5943,Stationery Stores,['453210']
+025,Poultry and Eggs,
+018,Horticultural Specialties,
+329,"Abrasive, Asbestos, and Miscellaneous Nonmetallic Mineral Products",
+752,Automobile Parking,
+736,Personnel Supply Services,
+1731,Electrical Work,['238210']
+228,Yarn and Thread Mills,
+3873,"Watches, Clocks, Clockwork Operated Devices, and Parts",['334518']
+3761,Guided Missiles and Space Vehicles,"['336414', '541712']"
+8051,Skilled Nursing Care Facilities,"['623311', '623110', '623210']"
+214,Tobacco Stemming and Redrying,
+792,"Theatrical Producers (except Motion Picture), Bands, Orchestras, A",
+6081,Branches and Agencies of Foreign Banks,"['522298', '522110', '522293']"
+16,Heavy Construction Other Than Building Construction-contractors,
+017,Fruits and Tree Nuts,
+021,"Livestock, except Dairy and Poultry",
+1429,"Crushed and Broken Stone, Not Elsewhere Classified",['212319']
+7629,"Electrical and Electronic Repair Shops, Not Elsewhere Classified","['811212', '811412', '811219', '443111', '811211', '811213']"
+3429,"Hardware, Not Elsewhere Classified","['332510', '332919', '332999', '336399', '333923', '337215', '334518', '332722', '332439']"
+075,"Animal Services, except Veterinary",
+731,Advertising,
+784,Video Tape Rental,
+7922,Theatrical Producers (except Motion Picture) and Miscellaneous Th,"['561311', '512290', '711310', '711410', '711510', '532490', '711320', '561599', '711120', '711110']"
+3451,Screw Machine Products,['332721']
+5049,"Professional Equipment and Supplies, Not Elsewhere Classified","['425120', '425110', '423490', '453210']"
+3795,Tanks and Tank Components,['336992']
+3052,Rubber and Plastics Hose and Belting,['326220']
+1799,"Special Trade Contractors, Not Elsewhere Classified","['237990', '562910', '238290', '238390', '238350', '238910', '238990', '238190', '238150', '236220', '238320', '561790']"
+7378,Computer Maintenance and Repair,"['811212', '443120']"
+941,Administration of Educational Programs,
+08,-forestry,
+7375,Information Retrieval Services,['517110']
+5112,Stationery and Office Supplies,"['425120', '425110', '424120', '453210']"
+3251,Brick and Structural Clay Tile,"['327121', '327331']"
+2389,"Apparel and Accessories, Not Elsewhere Classified","['315999', '315299', '315231', '315211', '315212']"
+3564,Industrial and Commercial Fans and Blowers and Air Purification E,"['333411', '333412']"
+277,Greeting Cards,
+603,Savings Institutions,
+2395,"Pleating, Decorative and Novelty Stitching, and Tucking For The T","['314999', '315211', '315212']"
+6371,"Pension, Health, and Welfare Funds","['524292', '525120', '523920', '525110', '525990']"
+515,Farm-product Raw Materials,
+8651,Political Organizations,['813940']
+2297,Nonwoven Fabrics,['313230']
+311,Leather Tanning and Finishing,
+376,Guided Missiles and Space Vehicles and Parts,
+4225,General Warehousing and Storage,"['493110', '531130']"
+555,Boat Dealers,
+4581,"Airports, Flying Fields, and Airport Terminal Services","['488119', '488190', '811420', '561720', '488111']"
+3229,"Pressed and Blown Glass and Glassware, Not Elsewhere Classified",['327212']
+3491,Industrial Valves,['332911']
+1411,Dimension Stone,['212311']
+285,"Paints, Varnishes, Lacquers, Enamels, and Allied Products",
+4931,Electric and Other Services Combined,"['221122', '221121', '221112', '221111', '221210', '221113', '221119']"
+45,Transportation By Air,
+7216,"Drycleaning Plants, except Rug Cleaning",['812320']
+1742,"Plastering, Drywall, Acoustical, and Insulation Work",['238310']
+87,"Engineering, Accounting, Research, Management, and Related Services",
+2083,Malt,['311213']
+841,Museums and Art Galleries,
+802,Offices and Clinics of Dentists,
+7513,"Truck Rental and Leasing, Without Drivers",['532120']
+6732,"Educational, Religious, and Charitable Trusts",['813211']
+3952,"Lead Pencils, Crayons, and Artists' Materials","['325998', '337127', '339942']"
+6733,"Trusts, except Educational, Religious, and Charitable","['523991', '523920', '525920', '525190']"
+3699,"Electrical Machinery, Equipment, and Supplies, Not Elsewhere Clas","['333992', '335129', '333319', '335999', '333618']"
+0174,Citrus Fruits,"['111320', '111310']"
+43,United States Postal Service,
+94,Administration of Human Resource Programs,
+3143,"Men's Footwear, except Athletic",['316213']
+2326,Men's and Boys' Work Clothing,"['315211', '315225']"
+807,Medical and Dental Laboratories,
+2015,Poultry Slaughtering and Processing,"['311999', '311615']"
+2761,Manifold Business Forms,['323116']
+514,Groceries and Related Products,
+7383,News Syndicates,"['519110', '711510']"
+5169,"Chemicals and Allied Products, Not Elsewhere Classified","['425120', '425110', '424690']"
+29,Petroleum Refining and Related Industries,
+3271,Concrete Block and Brick,['327331']
+1094,Uranium-radium-vanadium Ores,['212291']
+123,Anthracite Mining,
+5963,Direct Selling Establishments,"['454390', '722330']"
+3672,Printed Circuit Boards,['334412']
+805,Nursing and Personal Care Facilities,
+823,Libraries,
+251,Household Furniture,
+4151,School Buses,['485410']
+738,Miscellaneous Business Services,
+5511,Motor Vehicle Dealers (new and Used),['441110']
+2652,Setup Paperboard Boxes,['322213']
+1422,Crushed and Broken Limestone,['212312']
+836,Residential Care,
+3533,Oil and Gas Field Machinery and Equipment,['333132']
+2339,"Women's, Misses', and Juniors' Outerwear, Not Elsewhere Classifie","['315212', '315239', '315999', '315299']"
+029,"General Farms, Primarily Livestock and Animal Specialties",
+5148,Fresh Fruits and Vegetables,"['425120', '425110', '445230', '424480']"
+3552,Textile Machinery,['333292']
+3669,"Communications Equipment, Not Elsewhere Classified",['334290']
+132,Natural Gas Liquids,
+3449,Miscellaneous Structural Metalwork,"['332323', '332114', '332312']"
+3548,Electric and Gas Welding and Soldering Equipment,"['333992', '335311']"
+808,Home Health Care Services,
+2397,Schiffli Machine Embroideries,['313222']
+3149,"Footwear, except Rubber, Not Elsewhere Classified",['316219']
+1041,Gold Ores,['212221']
+5198,"Paints, Varnishes, and Supplies","['425110', '425120', '424950']"
+171,"Plumbing, Heating and Air-conditioning",
+2952,Asphalt Felts and Coatings,['324122']
+2341,"Women's, Misses', Children's, and Infants' Underwear and Nightwea","['315211', '315221', '315291', '315231', '315212']"
+2098,"Macaroni, Spaghetti, Vermicelli, and Noodles",['311823']
+2429,"Special Product Sawmills, Not Elsewhere Classified","['321999', '321113', '321920']"
+7829,Services Allied To Motion Picture Distribution,"['512120', '512199', '519120']"
+7041,"Organization Hotels and Lodging Houses, On Membership Basis","['721310', '721110']"
+1791,Structural Steel Erection,"['238220', '238190', '238120']"
+2013,Sausages and Other Prepared Meat Products,"['311612', '311613']"
+365,"Household Audio and Video Equipment, and Audio Recordings",
+76,Miscellaneous Repair Services,
+9222,Legal Counsel and Prosecution,['922130']
+725,Shoe Repair Shops and Shoeshine Parlors,
+2678,"Stationery, Tablets, and Related Products",['322233']
+302,Rubber and Plastics Footwear,
+1761,"Roofing, Siding, and Sheet Metal Work","['238390', '238160', '238170']"
+396,"Costume Jewelry, Costume Novelties, Buttons, and Miscellaneous Not",
+1623,"Water, Sewer, Pipeline, and Communications and Power Line Constru","['237120', '237130', '237110']"
+2813,Industrial Gases,['325120']
+3565,Packaging Machinery,['333993']
+2655,"Fiber Cans, Tubes, Drums, and Similar Products",['322214']
+2253,Knit Outerwear Mills,"['313312', '315191', '315192']"
+101,Iron Ores,
+0762,Farm Management Services,['115116']
+2816,Inorganic Pigments,"['325182', '325131']"
+0252,Chicken Eggs,['112310']
+275,Commercial Printing,
+3519,"Internal Combustion Engines, Not Elsewhere Classified","['333618', '336399']"
+7338,Secretarial and Court Reporting Services,"['561492', '561410']"
+3069,"Fabricated Rubber Products, Not Elsewhere Classified","['314911', '315999', '326299', '315299', '339113', '326192', '339932', '313320', '339920']"
+672,Investment Offices,
+3993,Signs and Advertising Specialties,"['323113', '339950']"
+6029,"Commercial Banks, Not Elsewhere Classified",['522110']
+394,"Dolls, Toys, Games and Sporting and Athletic Goods",
+4941,Water Supply,['221310']
+373,Ship and Boat Building and Repairing,
+362,Electrical Industrial Apparatus,
+3841,Surgical and Medical Instruments and Apparatus,"['339112', '337127', '332994']"
+1793,"Glass Installation, except Automotive-contractors",['238150']
+2674,Uncoated Paper and Multiwall Bags,['322224']
+5983,Fuel Oil Dealers,['454311']
+382,"Laboratory Apparatus and Analytical, Optical, Measuring, and Contr",
+633,"Fire, Marine, and Casualty Insurance",
+5194,Tobacco and Tobacco Products,"['425120', '425110', '424940', '453991']"
+6141,Personal Credit Institutions,"['522210', '522291', '522298', '522220']"
+0782,Lawn and Garden Services,['561730']
+3651,Household Audio and Video Equipment,['334310']
+4789,"Transportation Services, Not Elsewhere Classified","['488210', '722310', '487110', '488999']"
+2452,Prefabricated Wood Buildings and Components,['321992']
+9621,Regulation and Administration of Transportation Programs,"['926120', '488111']"
+6399,"Insurance Carriers, Not Elsewhere Classified",['524128']
+2096,"Potato Chips, Corn Chips, and Similar Snacks",['311919']
+145,"Clay, Ceramic, and Refractory Minerals",
+7515,Passenger Car Leasing,['532112']
+3621,Motors and Generators,['335312']
+7218,Industrial Launderers,['812332']
+881,Private Households,
+7376,Computer Facilities Management Services,['541513']
+179,Miscellaneous Special Trade Contractors,
+7993,Coin-operated Amusement Devices,"['713120', '713990', '713290']"
+2091,Canned and Cured Fish and Seafoods,['311711']
+6519,"Lessors of Real Property, Not Elsewhere Classified",['531190']
+4173,Terminal and Service Facilities For Motor Vehicle Passenger Trans,['488490']
+3563,Air and Gas Compressors,['333912']
+2269,"Finishers of Textiles, Not Elsewhere Classified","['313312', '313311']"
+2048,"Prepared Feeds and Feed Ingredients For Animals and Fowls, Except","['311119', '311611']"
+3829,"Measuring and Controlling Devices, Not Elsewhere Classified","['334518', '334519', '339112', '334514']"
+0919,Miscellaneous Marine Products,"['114112', '112512', '114119', '112519']"
+835,Child Day Care Services,
+2992,Lubricating Oils and Greases,['324191']
+5722,Household Appliance Stores,['443111']
+3822,Automatic Controls For Regulating Residential and Commercial Envi,['334512']
+2519,"Household Furniture, Not Elsewhere Classified",['337125']
+451,"Air Transportation, Scheduled, and Air Courier Services",
+8063,Psychiatric Hospitals,['622210']
+291,Petroleum Refining,
+2038,"Frozen Specialties, Not Elsewhere Classified",['311412']
+3589,"Service Industry Machinery, Not Elsewhere Classified",['333319']
+2448,Wood Pallets and Skids,['321920']
+7312,Outdoor Advertising Services,['541850']
+2431,Millwork,"['321918', '321911']"
+794,Commercial Sports,
+7641,Reupholstery and Furniture Repair,['811420']
+2599,"Furniture and Fixtures, Not Elsewhere Classified","['337127', '337127']"
+7549,"Automotive Services, except Repair and Carwashes","['811122', '811198', '811191', '488410']"
+6022,State Commercial Banks,"['522110', '522210', '522190']"
+3296,Mineral Wool,['327993']
+3955,Carbon Paper and Inked Ribbons,['339944']
+3914,"Silverware, Plated Ware, and Stainless Steel Ware","['332211', '339912', '332999']"
+8743,Public Relations Services,['541820']
+2337,"Women's, Misses', and Juniors' Suits, Skirts, and Coats","['315212', '315234']"
+922,Public Order and Safety,
+8011,Offices and Clinics of Doctors of Medicine,"['621493', '621111', '621491', '621112']"
+639,"Insurance Carriers, Not Elsewhere Classified",
+1231,Anthracite Mining,['212113']
+3792,Travel Trailers and Campers,['336214']
+3991,Brooms and Brushes,['339994']
+7941,Professional Sports Clubs and Promoters,"['711211', '711410', '711320', '711310']"
+9121,Legislative Bodies,['921120']
+344,Fabricated Structural Metal Products,
+2252,"Hosiery, Not Elsewhere Classified","['313312', '315119', '315111']"
+3144,"Women's Footwear, except Athletic",['316214']
+3569,"General Industrial Machinery and Equipment, Not Elsewhere Classif","['333414', '333999', '314999']"
+5023,Homefurnishings,"['425120', '425110', '442210', '423220']"
+3624,Carbon and Graphite Products,['335991']
+6019,"Central Reserve Depository Institutions, Not Elsewhere Classified",['522298']
+4731,Arrangement of Transportation of Freight and Cargo,"['488510', '541614']"
+5142,Packaged Frozen Foods,"['425120', '425110', '454390', '424420']"
+4522,"Air Transportation, Nonscheduled","['621910', '481212', '481211', '487990', '481219']"
+3469,"Metal Stampings, Not Elsewhere Classified","['332116', '332214', '332439']"
+0723,"Crop Preparation Services For Market, except Cotton Ginning","['311119', '115114']"
+563,Women's Accessory and Specialty Stores,
+0831,Forest Nurseries and Gathering of Forest Products,"['113210', '111998']"
+3161,Luggage,['316991']
+2951,Asphalt Paving Mixtures and Blocks,['324121']
+1771,Concrete Work,"['238990', '238110', '238140']"
+7319,"Advertising, Not Elsewhere Classified","['541870', '541850', '541890', '541830', '481219']"
+4493,Marinas,['713930']
+964,Regulation of Agricultural Marketing and Commodities,
+091,Commercial Fishing,
+9111,Executive Offices,['921110']
+2844,"Perfumes, Cosmetics, and Other Toilet Preparations","['325620', '325611']"
+2087,"Flavoring Extracts and Flavoring Syrups, Not Elsewhere Classified","['311930', '311920', '311942', '311999']"
+7699,"Repair Shops and Related Services, Not Elsewhere Classified","['238220', '811211', '562991', '442299', '811219', '811490', '115210', '561790', '811412', '811411', '811430', '561622', '451110', '444210', '444130', '811310', '562998', '488390', '711510', '811212']"
+34,"Fabricated Metal Products, except Machinery and Transportation Equipment",
+2732,Book Printing,['323117']
+352,Farm and Garden Machinery and Equipment,
+539,Miscellaneous General Merchandise Stores,
+2211,"Broadwoven Fabric Mills, Cotton",['313210']
+4221,Farm Product Warehousing and Storage,['493130']
+375,"Motorcycles, Bicycles, and Parts",
+7992,Public Golf Courses,['713910']
+3493,"Steel Springs, except Wire",['332611']
+2421,"Sawmills and Planing Mills, General","['321920', '321999', '321912', '321113', '321918']"
+6289,"Services Allied With The Exchange of Securities Or Commodities, N","['523999', '523991']"
+0912,Finfish,['114111']
+4959,"Sanitary Services, Not Elsewhere Classified","['562998', '561790', '561710', '562910', '488490', '488119']"
+221,"Broadwoven Fabric Mills, Cotton",
+5912,Drug Stores and Proprietary Stores,['446110']
+2911,Petroleum Refining,['324110']
+102,Copper Ores,
+9224,Fire Protection,['922160']
+3845,Electromedical and Electrotherapeutic Apparatus,"['334517', '334510']"
+5992,Florists,['453110']
+5145,Confectionery,"['425120', '425110', '445292', '424450']"
+3465,Automotive Stampings,['336370']
+36,"Electronic and Other Electrical Equipment and Components, except Computer",
+517,Petroleum and Petroleum Products,
+9131,Executive and Legislative Offices Combined,['921140']
+238,Miscellaneous Apparel and Accessories,
+324,"Cement, Hydraulic",
+28,Chemicals and Allied Products,
+30,Rubber and Miscellaneous Plastics Products,
+6159,Miscellaneous Business Credit Institutions,"['522298', '522292', '522220', '522294', '522293']"
+395,"Pens, Pencils, and Other Artists' Materials",
+226,"Dyeing and Finishing Textiles, except Wool Fabrics and Knit Goods",
+3462,Iron and Steel Forgings,['332111']
+2782,"Blankbooks, Looseleaf Binders and Devices","['323116', '323118']"
+0271,Fur-bearing Animals and Rabbits,['112930']
+2791,Typesetting,['323122']
+4619,"Pipelines, Not Elsewhere Classified",['486990']
+763,"Watch, Clock, and Jewelry Repair",
+8422,Arboreta and Botanical Or Zoological Gardens,"['712130', '712190']"
+6517,Lessors of Railroad Property,['531190']
+3532,"Mining Machinery and Equipment, except Oil and Gas Field Machiner",['333131']
+1311,Crude Petroleum and Natural Gas,['211111']
+5051,Metals Service Centers and Offices,"['425120', '425110', '423510']"
+3241,"Cement, Hydraulic",['327310']
+3843,Dental Equipment and Supplies,['339114']
+3549,"Metalworking Machinery, Not Elsewhere Classified",['333518']
+4813,"Telephone Communications, except Radiotelephone","['517110', '517911']"
+6531,Real Estate Agents and Managers,"['531210', '531320', '812220', '813990', '531390', '531312', '531110', '531311']"
+50,Wholesale Trade&die;durable Goods,
+3676,Electronic Resistors,['334415']
+024,Dairy Farms,
+8243,Data Processing Schools,"['611519', '611420']"
+861,Business Associations,
+7542,Carwashes,['811192']
+295,Asphalt Paving and Roofing Materials,
+3463,Nonferrous Forgings,['332112']
+1481,"Nonmetallic Minerals Services, except Fuels","['213115', '541360', '238910']"
+519,Miscellaneous Nondurable Goods,
+8092,Kidney Dialysis Centers,['621492']
+505,"Metals and Minerals, except Petroleum",
+153,Operative Builders,
+076,Farm Labor and Management Services,
+422,Public Warehousing and Storage,
+2514,Metal Household Furniture,"['337124', '337215', '337121']"
+393,Musical Instruments,
+374,Railroad Equipment,
+7313,"Radio, Television, and Publishers' Advertising Representatives",['541840']
+865,Political Organizations,
+824,Vocational Schools,
+0131,Cotton,['111920']
+5531,Auto and Home Supply Stores,"['441310', '452990', '441320']"
+2873,Nitrogenous Fertilizers,['325311']
+7011,Hotels and Motels,"['721191', '721120', '721199', '721110']"
+1522,"General Contractors-residential Buildings, Other Than Single-fami","['236220', '236116', '236118']"
+7999,"Amusement and Recreation Services, Not Elsewhere Classified","['487990', '611620', '611699', '532292', '713210', '712190', '487210', '711190', '713990', '713290', '713940', '812990', '711219', '487110', '713920', '711310', '711320', '561599']"
+6722,"Management Investment Offices, Open-end",['525910']
+4953,Refuse Systems,"['562211', '562920', '562219', '562213', '562212']"
+3492,Fluid Power Valves and Hose Fittings,['332912']
+553,Auto and Home Supply Stores,
+7514,Passenger Car Rental,['532111']
+3567,Industrial Process Furnaces and Ovens,['333994']
+223,"Broadwoven Fabric Mills, Wool (including Dyeing and Finishing)",
+1795,Wrecking and Demolition Work,['238910']
+2361,"Girls', Children's, and Infants' Dresses, Blouses, and Shirts","['315211', '315223', '315212', '315232', '315233', '315291']"
+7217,Carpet and Upholstery Cleaning,['561740']
+623,Security and Commodity Exchanges,
+3751,"Motorcycles, Bicycles, and Parts",['336991']
+1711,"Plumbing, Heating and Air-conditioning","['238210', '238220', '238910']"
+8351,Child Day Care Services,['624410']
+5734,Computer and Computer Software Stores,['443120']
+314,"Footwear, except Rubber",
+358,Refrigeration and Service Industry Machinery,
+492,Gas Production and Distribution,
+966,Space Research and Technology,
+2034,"Dried and Dehydrated Fruits, Vegetables, and Soup Mixes","['311423', '311211', '311999']"
+149,"Miscellaneous Nonmetallic Minerals, except Fuels",
+3949,"Sporting and Athletic Goods, Not Elsewhere Classified",['339920']
+289,Miscellaneous Chemical Products,
+2259,"Knitting Mills, Not Elsewhere Classified","['313312', '315192', '315191', '313249', '313241']"
+5949,"Sewing, Needlework, and Piece Goods Stores",['451130']
+3291,Abrasive Products,"['327910', '332999']"
+3484,Small Arms,['332994']
+5989,"Fuel Dealers, Not Elsewhere Classified",['454319']
+1796,"Installation Or Erection of Building Equipment, Not Elsewhere Cla","['238290', '238220']"
+103,Lead and Zinc Ores,
+2752,"Commercial Printing, Lithographic","['323110', '323114']"
+6792,Oil Royalty Traders,"['523910', '533110']"
+508,"Machinery, Equipment, and Supplies",
+3677,"Electronic Coils, Transformers, and Other Inductors",['334416']
+2796,Platemaking and Related Services,['323122']
+3089,"Plastics Products, Not Elsewhere Classified","['326199', '337215', '339113', '326122', '326121']"
+272,"Periodicals: Publishing, Or Publishing and Printing",
+703,Camps and Recreational Vehicle Parks,
+481,Telephone Communications,
+2371,Fur Goods,"['315292', '315211', '315212']"
+6036,"Savings Institutions, Not Federally Chartered",['522120']
+259,Miscellaneous Furniture and Fixtures,
+96,Administration of Economic Programs,
+7221,"Photographic Studios, Portrait",['541921']
+7311,Advertising Agencies,['541810']
+7353,Heavy Construction Equipment Rental and Leasing,"['238990', '532412', '238910']"
+3648,"Lighting Equipment, Not Elsewhere Classified",['335129']
+557,Motorcycle Dealers,
+651,Real Estate Operators (except Developers) and Lessors,
+339,Miscellaneous Primary Metal Products,
+2011,Meat Packing Plants,['311611']
+729,Miscellaneous Personal Services,
+5191,Farm Supplies,"['425120', '425110', '444220', '424910']"
+3561,Pumps and Pumping Equipment,['333911']
+9411,Administration of Educational Programs,['923110']
+91,"Executive, Legislative, and General Government, except Finance",
+2851,"Paints, Varnishes, Lacquers, Enamels, and Allied Products",['325510']
+3425,Saw Blades and Handsaws,['332213']
+2759,"Commercial Printing, Not Elsewhere Classified","['323115', '323112', '323119', '323114', '323113']"
+7991,Physical Fitness Facilities,['713940']
+8222,Junior Colleges and Technical Institutes,['611210']
+58,Eating and Drinking Places,
+2531,Public Building and Related Furniture,"['339942', '337127', '336360']"
+4922,Natural Gas Transmission,['486210']
+6541,Title Abstract Offices,['541191']
+821,Elementary and Secondary Schools,
+254,"Partitions, Shelving, Lockers, and Office and Store Fixtures",
+15,Building Construction-general Contractors and Operative Builders,
+5948,Luggage and Leather Goods Stores,['448320']
+3523,Farm Machinery and Equipment,"['332323', '333111', '333922', '332212']"
+262,Paper Mills,
+44,Water Transportation,
+4939,"Combination Utilities, Not Elsewhere Classified","['221122', '221121', '221112', '221111', '221210', '221113', '221119']"
+7519,Utility Trailer and Recreational Vehicle Rental,['532120']
+1381,Drilling Oil and Gas Wells,['213111']
+2335,"Women's, Misses', and Juniors' Dresses","['315212', '315233']"
+3317,Steel Pipe and Tubes,['331210']
+0112,Rice,['111160']
+2021,Creamery Butter,['311512']
+2045,Prepared Flour Mixes and Doughs,['311822']
+6719,"Offices of Holding Companies, Not Elsewhere Classified",['551112']
+81,Legal Services,
+806,Hospitals,
+206,Sugar and Confectionery Products,
+4142,"Bus Charter Service, except Local",['485510']
+1521,General Contractors-single-family Houses,"['236118', '236115']"
+7372,Prepackaged Software,"['334611', '511210']"
+3721,Aircraft,"['336411', '541712']"
+7336,Commercial Art and Graphic Design,['541430']
+071,Soil Preparation Services,
+2325,Men's and Boys' Separate Trousers and Slacks,"['315211', '315224']"
+921,Courts,
+1474,"Potash, Soda, and Borate Minerals",['212391']
+6411,"Insurance Agents, Brokers, and Service","['524298', '524210', '524291', '524292']"
+829,"Schools and Educational Services, Not Elsewhere Classified",
+2823,Cellulosic Manmade Fibers,['325221']
+3339,"Primary Smelting and Refining of Nonferrous Metals, except Copper",['331419']
+5421,"Meat and Fish (seafood) Markets, Including Freezer Provisioners","['454390', '445210', '445220']"
+3275,Gypsum Products,['327420']
+543,Fruit and Vegetable Markets,
+5251,Hardware Stores,['444130']
+3575,Computer Terminals,['334113']
+0259,"Poultry and Eggs, Not Elsewhere Classified",['112390']
+385,Ophthalmic Goods,
+3444,Sheet Metalwork,"['333415', '332322', '332439', '332321']"
+8322,Individual and Family Social Services,"['624210', '624110', '624230', '624190', '922150', '624229', '624120', '624221']"
+141,Dimension Stone,
+46,"Pipelines, except Natural Gas",
+0751,"Livestock Services, except Veterinary","['311611', '115210']"
+282,"Plastics Materials and Synthetic Resins, Synthetic Rubber, Cellulo",
+554,Gasoline Service Stations,
+5159,"Farm-product Raw Materials, Not Elsewhere Classified","['425120', '425110', '444220', '424590']"
+5193,"Flowers, Nursery Stock, and Florists' Supplies","['425120', '425110', '424930', '444220']"
+704,"Organization Hotels and Lodging Houses, On Membership Basis",
+3295,"Minerals and Earths, Ground Or Otherwise Treated","['327992', '212393', '212325', '212324', '212399']"
+3769,"Guided Missile and Space Vehicle Parts and Auxiliary Equipment, N","['336419', '541712']"
+724,Barber Shops,
+6512,Operators of Nonresidential Buildings,"['531120', '711310']"
+2076,"Vegetable Oil Mills, except Corn, Cottonseed, and Soybean","['311223', '311225']"
+5451,Dairy Products Stores,['445299']
+2999,"Products of Petroleum and Coal, Not Elsewhere Classified",['324199']
+3951,"Pens, Mechanical Pencils, and Parts",['339941']
+379,Miscellaneous Transportation Equipment,
+3211,Flat Glass,['327211']
+507,"Hardware, and Plumbing and Heating Equipment and Supplies",
+5074,Plumbing and Heating Equipment and Supplies (hydronics),"['425120', '425110', '423720', '444190']"
+372,Aircraft and Parts,
+1741,"Masonry, Stone Setting, and Other Stone Work",['238140']
+2721,"Periodicals: Publishing, Or Publishing and Printing","['511120', '519130']"
+1446,Industrial Sand,['212322']
+4311,United States Postal Service,['491110']
+458,"Airports, Flying Fields, and Airport Terminal Services",
+7911,"Dance Studios, Schools, and Halls","['611610', '713990']"
+174,"Masonry, Stonework, Tile Setting, and Plastering",
+414,Bus Charter Service,
+9451,"Administration of Veterans' Affairs, except Health and Insurance",['923140']
+252,Office Furniture,
+3535,Conveyors and Conveying Equipment,['333922']
+2434,Wood Kitchen Cabinets,['337110']
+56,Apparel and Accessory Stores,
+2411,Logging,['113310']
+2517,"Wood Television, Radio, Phonograph, and Sewing Machine Cabinets",['337129']
+019,"General Farms, Primarily Crop",
+17,Construction-special Trade Contractors,
+2258,Lace and Warp Knit Fabric Mills,"['313249', '313312']"
+343,"Heating Equipment, except Electric and Warm Air; and Plumbing Fixt",
+2044,Rice Milling,['311212']
+4492,Towing and Tugboat Services,['488330']
+8661,Religious Organizations,['813110']
+7334,Photocopying and Duplicating Services,"['561439', '323114']"
+177,Concrete Work,
+3671,Electron Tubes,['334411']
+208,Beverages,
+5735,Record and Prerecorded Tape Stores,['451220']
+2656,"Sanitary Food Containers, except Folding",['322215']
+5499,Miscellaneous Food Stores,"['445299', '446191', '445210']"
+5072,Hardware,"['425120', '425110', '444130', '423710']"
+2399,"Fabricated Textile Products, Not Elsewhere Classified","['315999', '314999', '315211', '336360', '315212']"
+8721,"Accounting, Auditing, and Bookkeeping Services","['541211', '541219', '541214']"
+611,Federal and Federally-sponsored Credit Agencies,
+332,Iron and Steel Foundries,
+702,Rooming and Boarding Houses,
+3142,House Slippers,['316212']
+341,Metal Cans and Shipping Containers,
+8734,Testing Laboratories,"['541380', '541940']"
+0251,"Broiler, Fryer, and Roaster Chickens",['112320']
+175,Carpentry and Floor Work,
+0913,Shellfish,['114112']
+2082,Malt Beverages,"['312120', '311942']"
+386,Photographic Equipment and Supplies,
+6552,"Land Subdividers and Developers, except Cemeteries",['237210']
+6231,Security and Commodity Exchanges,['523210']
+4489,"Water Transportation of Passengers, Not Elsewhere Classified","['487210', '483212']"
+7377,Computer Rental and Leasing,['532420']
+2084,"Wines, Brandy, and Brandy Spirits",['312130']
+5146,Fish and Seafoods,"['425120', '425110', '445220', '424460']"
+5172,"Petroleum and Petroleum Products Wholesalers, except Bulk Station","['425120', '425110', '424720']"
+2381,"Dress and Work Gloves, except Knit and All-leather","['315992', '315211', '315212']"
+64,"Insurance Agents, Brokers, and Service",
+631,Life Insurance,
+8711,Engineering Services,['541330']
+0741,Veterinary Services For Livestock,['541940']
+4925,"Mixed, Manufactured, Or Liquefied Petroleum Gas Production And/or",['221210']
+2353,"Hats, Caps, and Millinery","['315991', '315211', '315212']"
+308,Miscellaneous Plastics Products,
+874,Management and Public Relations Services,
+5064,"Electrical Appliances, Television and Radio Sets","['425120', '425110', '444190', '443111', '423620', '443112']"
+413,Intercity and Rural Bus Transportation,
+399,Miscellaneous Manufacturing Industries,
+3259,"Structural Clay Products, Not Elsewhere Classified",['327123']
+616,Mortgage Bankers and Brokers,
+497,Irrigation Systems,
+2231,"Broadwoven Fabric Mills, Wool (including Dyeing and Finishing)","['313210', '313311', '313312']"
+6321,Accident and Health Insurance,"['524113', '524114', '524130', '525190']"
+316,Luggage,
+2835,In Vitro and In Vivo Diagnostic Substances,"['325412', '325413']"
+209,Miscellaneous Food Preparations and Kindred Products,
+7335,Commercial Photography,"['541922', '481219']"
+306,"Fabricated Rubber Products, Not Elsewhere Classified",
+7536,Automotive Glass Replacement Shops,['811122']
+57,"Home Furniture, Furnishings, and Equipment Stores",
+494,Water Supply,
+531,Department Stores,
+8811,Private Households,['814110']
+3499,"Fabricated Metal Products, Not Elsewhere Classified","['332919', '336360', '332439', '337215', '332999', '332117', '332510']"
+521,Lumber and Other Building Materials Dealers,
+596,Nonstore Retailers,
+2067,Chewing Gum,['311340']
+793,Bowling Centers,
+5088,"Transportation Equipment and Supplies, except Motor Vehicles","['425120', '425110', '423860']"
+944,"Administration of Social, Human Resource and Income Maintenance Pr",
+782,Motion Picture Distribution and Allied Services,
+5147,Meats and Meat Products,"['445210', '425120', '311612', '425110', '424470']"
+8211,Elementary and Secondary Schools,['611110']
+333,Primary Smelting and Refining of Nonferrous Metals,
+3646,"Commercial, Industrial, and Institutional Electric Lighting Fixtu",['335122']
+4226,"Special Warehousing and Storage, Not Elsewhere Classified","['493190', '493120', '493110']"
+833,Job Training and Vocational Rehabilitation Services,
+3999,"Manufacturing Industries, Not Elsewhere Classified","['337127', '333319', '321999', '335211', '339932', '332812', '316110', '332211', '335121', '325998', '332999', '339999', '326199', '332212']"
+9311,"Public Finance, Taxation, and Monetary Policy",['921130']
+3592,"Carburetors, Pistons, Piston Rings, and Valves",['336311']
+1011,Iron Ores,['212210']
+263,Paperboard Mills,
+0811,Timber Tracts,"['113110', '111421']"
+7219,"Laundry and Garment Services, Not Elsewhere Classified","['811490', '812331', '812320']"
+3231,"Glass Products, Made of Purchased Glass",['327215']
+176,"Roofing, Siding, and Sheet Metal Work",
+0724,Cotton Ginning,['115111']
+5311,Department Stores,"['452112', '452111']"
+6799,"Investors, Not Elsewhere Classified","['523920', '523130', '523910']"
+357,Computer and Office Equipment,
+2261,Finishers of Broadwoven Fabrics of Cotton,['313311']
+552,Motor Vehicle Dealers (used Only),
+473,Arrangement of Transportation of Freight and Cargo,
+67,Holding and Other Investment Offices,
+7389,"Business Services, Not Elsewhere Classified","['541990', '325998', '711410', '812320', '512290', '561499', '561920', '561591', '522320', '541870', '541340', '488490', '314999', '541490', '541350', '541420', '541410', '541370', '518210', '561439', '561990', '561910', '491110', '519190', '561431', '541199', '711310', '711320', '561410', '512240', '561491', '561599', '541890', '313311', '561790', '561440', '561422', '561421', '312229', '541930', '425120', '812990']"
+753,Automotive Repair Shops,
+237,Fur Goods,
+7374,Computer Processing and Data Preparation and Processing Services,['518210']
+0172,Grapes,['111332']
+265,Paperboard Containers and Boxes,
+144,Sand and Gravel,
+9532,Administration of Urban Planning and Community and Rural Developm,['925120']
+495,Sanitary Services,
+3315,Steel Wiredrawing and Steel Nails and Spikes,"['332618', '331222']"
+962,Regulation and Administration of Transportation Programs,
+721,"Laundry, Cleaning, and Garment Services",
+4924,Natural Gas Distribution,['221210']
+5984,Liquefied Petroleum Gas (bottled Gas) Dealers,['454312']
+3643,Current-carrying Wiring Devices,['335931']
+0116,Soybeans,['111110']
+533,Variety Stores,
+3448,Prefabricated Metal Buildings and Components,['332311']
+8999,"Services, Not Elsewhere Classified","['541612', '711510', '541620', '519130', '519130', '512230', '512210', '541690', '541990']"
+3613,Switchgear and Switchboard Apparatus,['335313']
+799,Miscellaneous Amusement and Recreation Services,
+2387,Apparel Belts,"['315999', '315211', '315212']"
+3313,"Electrometallurgical Products, except Steel",['331112']
+791,"Dance Studios, Schools, and Halls",
+2441,Nailed and Lock Corner Wood Boxes and Shook,['321920']
+1423,Crushed and Broken Granite,['212313']
+0181,Ornamental Floriculture and Nursery Products,"['111422', '111421']"
+2631,Paperboard Mills,['322130']
+8699,"Membership Organizations, Not Elsewhere Classified","['813990', '813410', '813910', '813312', '561599']"
+225,Knitting Mills,
+3321,Gray and Ductile Iron Foundries,['331511']
+072,Crop Services,
+6061,"Credit Unions, Federally Chartered",['522130']
+3944,"Games, Toys, and Children's Vehicles, except Dolls and Bicycles","['336991', '339932']"
+328,Cut Stone and Stone Products,
+4725,Tour Operators,['561520']
+241,Logging,
+2512,"Wood Household Furniture, Upholstered",['337121']
+9611,Administration of General Economic Programs,['926110']
+571,Home Furniture and Furnishings Stores,
+7231,Beauty Shops,"['611511', '812112', '812113']"
+4785,"Cargo Checkers and Surveyors, Marine","['488490', '488390']"
+2033,"Canned Fruits, Vegetables, Preserves, Jams, and Jellies",['311421']
+2676,Sanitary Paper Products,['322291']
+7322,Adjustment and Collection Services,['561440']
+354,Metalworking Machinery and Equipment,
+8062,General Medical and Surgical Hospitals,['622110']
+3635,Household Vacuum Cleaners,['335212']
+3825,Instruments For Measuring and Testing of Electricity and Electric,"['334514', '334515']"
+2284,Thread Mills,"['313113', '313312']"
+61,Nondepository Credit Institutions,
+8732,"Commercial Economic, Sociological, and Educational Research","['541910', '541712']"
+2435,Hardwood Veneer and Plywood,['321211']
+509,Miscellaneous Durable Goods,
+2026,Fluid Milk,"['311511', '311514']"
+3675,Electronic Capacitors,['334414']
+3471,"Electroplating, Plating, Polishing, Anodizing, and Coloring",['332813']
+5632,Women's Accessory and Specialty Stores,"['448190', '448150']"
+10,Metal Mining,
+2834,Pharmaceutical Preparations,['325412']
+913,Executive and Legislative Offices Combined,
+2741,Miscellaneous Publishing,"['511140', '511199', '519130', '512230', '511120', '511130']"
+124,Coal Mining Services,
+3264,Porcelain Electrical Supplies,['327113']
+8082,Home Health Care Services,['621610']
+518,"Beer, Wine, and Distilled Alcoholic Beverages",
+6515,Operators of Residential Mobile Home Sites,['531190']
+421,"Trucking and Courier Services, except Air",
+3087,Custom Compounding of Purchased Plastics Resins,['325991']
+4512,"Air Transportation, Scheduled","['481112', '481111']"
+356,General Industrial Machinery and Equipment,
+3399,"Primary Metal Products, Not Elsewhere Classified","['331314', '331423', '331221', '331111', '332813', '332618', '331492']"
+615,Business Credit Institutions,
+769,Miscellaneous Repair Shops and Related Services,
+556,Recreational Vehicle Dealers,
+5021,Furniture,"['425120', '425110', '442110', '423210']"
+4412,Deep Sea Foreign Transportation of Freight,['483111']
+8041,Offices and Clinics of Chiropractors,['621310']
+3324,Steel Investment Foundries,['331512']
+3559,"Special Industry Machinery, Not Elsewhere Classified","['333319', '333111', '333298', '332410', '333220', '333295']"
+301,Tires and Inner Tubes,
+9431,Administration of Public Health Programs,['923120']
+5993,Tobacco Stores and Stands,['453991']
+239,Miscellaneous Fabricated Textile Products,
+527,Mobile Home Dealers,
+2322,Men's and Boys' Underwear and Nightwear,"['315211', '315221']"
+3354,Aluminum Extruded Products,['331316']
+3644,Noncurrent-carrying Wiring Devices,"['335932', '332212']"
+3261,Vitreous China Plumbing Fixtures and China and Earthenware Fittin,['327111']
+2022,"Natural, Processed, and Imitation Cheese",['311513']
+7032,Sporting and Recreational Camps,['721214']
+1475,Phosphate Rock,['212392']
+2392,"Housefurnishings, except Curtains and Draperies","['314911', '314999', '314129', '339994']"
+39,Miscellaneous Manufacturing Industries,
+472,Arrangement of Passenger Transportation,
+443,Freight Transportation On The Great Lakes&die;st. Lawrence Seaway,
+23,Apparel and Other Finished Products Made From Fabrics and Similar Material,
+811,Legal Services,
+8244,Business and Secretarial Schools,['611410']
+3827,Optical Instruments and Lenses,['333314']
+7381,"Detective, Guard, and Armored Car Services","['561613', '561611', '561612']"
+3647,Vehicular Lighting Equipment,['336321']
+7822,Motion Picture and Video Tape Distribution,"['512120', '423990']"
+106,"Ferroalloy Ores, except Vanadium",
+3678,Electronic Connectors,['334417']
+5083,Farm and Garden Machinery and Equipment,"['425120', '425110', '444210', '423820']"
+9531,Administration of Housing Programs,['925110']
+3334,Primary Production of Aluminum,['331312']
+5521,Motor Vehicle Dealers (used Only),['441120']
+7379,"Computer Related Services, Not Elsewhere Classified","['541512', '518210', '541519']"
+2675,Die-cut Paper and Paperboard and Cardboard,"['322231', '322299', '322226']"
+3586,Measuring and Dispensing Pumps,['333913']
+6712,Offices of Bank Holding Companies,['551111']
+737,"Computer Programming, Data Processing, and Other Computer Related",
+866,Religious Organizations,
+5946,Camera and Photographic Supply Stores,['443130']
+2061,"Cane Sugar, except Refining",['311311']
+2812,Alkalies and Chlorine,['325181']
+4841,Cable and Other Pay Television Services,"['515210', '517110']"
+2677,Envelopes,['322232']
+5032,"Brick, Stone, and Related Construction Materials","['425120', '425110', '423320', '444190']"
+562,Women's Clothing Stores,
+3292,Asbestos Products,"['336340', '336350', '327999']"
+2323,Men's and Boys' Neckwear,"['315993', '315211']"
+40,Railroad Transportation,
+351,Engines and Turbines,
+232,"Men's and Boys' Furnishings, Work Clothing, and Allied Garments",
+0254,Poultry Hatcheries,['112340']
+441,Deep Sea Foreign Transportation of Freight,
+6311,Life Insurance,"['524128', '524113', '524130']"
+1751,Carpentry Work,"['238350', '238130']"
+108,Metal Mining Services,
+3086,Plastics Foam Products,"['326150', '326140']"
+62,"Security and Commodity Brokers, Dealers, Exchanges, and Services",
+2111,Cigarettes,['312221']
+1389,"Oil and Gas Field Services, Not Elsewhere Classified","['237120', '213112', '238910']"
+872,"Accounting, Auditing, and Bookkeeping Services",
+3553,Woodworking Machinery,['333210']
+2541,"Wood Office and Store Fixtures, Partitions, Shelving, and Lockers","['337212', '337110', '337215', '337127']"
+6111,Federal and Federally-sponsored Credit Agencies,"['522294', '522298', '522292', '522293']"
+32,"Stone, Clay, Glass, and Concrete Products",
+7382,Security Systems Services,['561621']
+549,Miscellaneous Food Stores,
+2257,Weft Knit Fabric Mills,"['313241', '313312']"
+281,Industrial Inorganic Chemicals,
+7933,Bowling Centers,['713950']
+97,National Security and International Affairs,
+366,Communications Equipment,
+8111,Legal Services,['541110']
+0722,"Crop Harvesting, Primarily By Machine",['115113']
+5144,Poultry and Poultry Products,"['425120', '425110', '424440', '445210']"
+3826,Laboratory Analytical Instruments,['334516']
+78,Motion Pictures,
+0241,Dairy Farms,"['112111', '112120']"
+2439,"Structural Wood Members, Not Elsewhere Classified","['321213', '321214']"
+8071,Medical Laboratories,"['621512', '621511']"
+5094,"Jewelry, Watches, Precious Stones, and Precious Metals","['425120', '425110', '448310', '423940']"
+4213,"Trucking, except Local","['484122', '484121', '484210', '484230']"
+3524,"Blowers, Residential Lawn","['333112', '332212']"
+2047,Dog and Cat Food,['311111']
+1222,Bituminous Coal Underground Mining,['212112']
+5962,Automatic Merchandising Machine Operators,['454210']
+342,"Cutlery, Handtools, and General Hardware",
+0139,"Field Crops, except Cash Grains, Not Elsewhere Classified","['111211', '111199', '111998', '111940', '111992']"
+3546,Power-driven Handtools,['333991']
+2342,"Brassieres, Girdles, and Allied Garments","['315212', '315231']"
+3716,Motor Homes,['336213']
+764,Reupholstery and Furniture Repair,
+286,Industrial Organic Chemicals,
+3645,Residential Electric Lighting Fixtures,['335121']
+8299,"Schools and Educational Services, Not Elsewhere Classified","['611710', '611610', '611692', '611620', '611519', '611691', '611699', '611512', '611630', '611430']"
+3629,"Electrical Industrial Apparatus, Not Elsewhere Classified",['335999']
+2869,"Industrial Organic Chemicals, Not Elsewhere Classified","['325110', '325188', '325192', '325193', '325199', '325120', '325998']"
+6794,Patent Owners and Lessors,['533110']
+3199,"Leather Goods, Not Elsewhere Classified",['316999']
+5141,"Groceries, General Line","['425120', '425110', '445110', '424410']"
+2542,"Office and Store Fixtures, Partitions, Shelving, and Lockers, Exc","['337215', '337127']"
+971,National Security,
+212,Cigars,
+3495,Wire Springs,"['334518', '332612']"
+27,"Printing, Publishing, and Allied Industries",
+3555,Printing Trades Machinery and Equipment,['333293']
+3479,"Coating, Engraving, and Allied Services, Not Elsewhere Classified","['339914', '332812', '339911', '339912']"
+3365,Aluminum Foundries,['331524']
+299,Miscellaneous Products of Petroleum and Coal,
+3366,Copper Foundries,['331525']
+074,Veterinary Services,
+1479,"Chemical and Fertilizer Mineral Mining, Not Elsewhere Classified",['212393']
+081,Timber Tracts,
+3483,"Ammunition, except For Small Arms",['332993']
+2865,"Cyclic Organic Crudes and Intermediates, and Organic Dyes and Pig","['325192', '325110', '325132']"
+501,Motor Vehicles and Motor Vehicle Parts and Supplies,
+3571,Electronic Computers,['334111']
+781,Motion Picture Production and Allied Services,
+566,Shoe Stores,
+5075,Warm Air Heating and Air-conditioning Equipment and Supplies,"['425120', '425110', '423730']"
+0132,Tobacco,['111910']
+5044,Office Equipment,"['425120', '425110', '423420', '453210']"
+546,Retail Bakeries,
+2499,"Wood Products, Not Elsewhere Classified","['339113', '321999', '337125', '339999', '321920', '333415']"
+82,Educational Services,
+2754,"Commercial Printing, Gravure",['323111']
+3612,"Power, Distribution, and Specialty Transformers",['335311']
+7299,"Miscellaneous Personal Services, Not Elsewhere Classified","['561311', '561990', '541990', '812191', '812990', '532220', '812199', '812930']"
+3594,Fluid Power Pumps and Motors,['333996']
+5181,Beer and Ale,"['425120', '445310', '425110', '424810']"
+504,Professional and Commercial Equipment and Supplies,
+2879,"Pesticides and Agricultural Chemicals, Not Elsewhere Classified",['325320']
+564,Children's and Infants' Wear Stores,
+2393,Textile Bags,['314911']
+3274,Lime,['327410']
+2833,Medicinal Chemicals and Botanical Products,['325411']
+011,Cash Grains,
+3273,Ready-mixed Concrete,['327320']
+0272,Horses and Other Equines,['112920']
+92,"Justice, Public Order, and Safety",
+3357,Drawing and Insulating of Nonferrous Wire,"['331319', '335929', '331422', '335921', '331491']"
+2771,Greeting Cards,"['323112', '323111', '519130', '323110', '323119', '511191', '323113']"
+154,General Building Contractors-nonresidential Buildings,
+1455,Kaolin and Ball Clay,['212324']
+2657,"Folding Paperboard Boxes, Including Sanitary",['322212']
+2121,Cigars,['312229']
+9199,"General Government, Not Elsewhere Classified",['921190']
+0133,Sugarcane and Sugar Beets,"['111991', '111930']"
+5736,Musical Instrument Stores,['451140']
+5431,Fruit and Vegetable Markets,"['445230', '454390']"
+4432,Freight Transportation On The Great Lakes&die;st. Lawrence Seaway,['483113']
+9641,Regulation of Agricultural Marketing and Commodities,['926140']
+411,Local and Suburban Passenger Transportation,
+832,Individual and Family Social Services,
+323,"Glass Products, Made of Purchased Glass",
+5541,Gasoline Service Stations,"['447110', '447190']"
+3731,Ship Building and Repairing,"['336611', '488390']"
+7342,Disinfecting and Pest Control Services,"['561720', '561710']"
+8748,"Business Consulting Services, Not Elsewhere Classified","['611710', '541618', '541690', '541330', '541320']"
+496,Steam and Air-conditioning Supply,
+5113,Industrial and Personal Service Paper,"['425120', '425110', '453998', '424130']"
+3578,"Calculating and Accounting Machines, except Electronic Computers","['333311', '333313', '334119']"
+211,Cigarettes,
+2043,Cereal Breakfast Foods,"['311230', '311920']"
+3679,"Electronic Components, Not Elsewhere Classified","['334220', '334419', '334418', '334310']"
+8052,Intermediate Care Facilities,"['623311', '623110', '623210']"
+8069,"Specialty Hospitals, except Psychiatric","['622110', '622310', '622210']"
+2493,Reconstituted Wood Products,['321219']
+204,Grain Mill Products,
+3299,"Nonmetallic Mineral Products, Not Elsewhere Classified","['327112', '327999', '327420']"
+3531,Construction Machinery and Equipment,"['333120', '336510', '333923']"
+5731,"Radio, Television, and Consumer Electronics Stores","['441310', '443112']"
+614,Personal Credit Institutions,
+0119,"Cash Grains, Not Elsewhere Classified","['111130', '111199', '111191', '111120', '111150']"
+1752,"Floor Laying and Other Floor Work, Not Elsewhere Classified",['238330']
+3432,Plumbing Fixture Fittings and Trim,"['332913', '332919', '332999']"
+5942,Book Stores,['451211']
+0213,Hogs,['112210']
+2731,"Books: Publishing, Or Publishing and Printing","['511130', '519130', '512230']"
+21,Tobacco Products,
+6798,Real Estate Investment Trusts,"['531130', '525930', '531190', '531110', '525990']"
+122,Bituminous Coal and Lignite Mining,
+7537,Automotive Transmission Repair Shops,['811113']
+3088,Plastics Plumbing Fixtures,['326191']
+4783,Packing and Crating,['488991']
+2063,Beet Sugar,['311313']
+762,Electrical Repair Shops,
+2241,"Narrow Fabric and Other Smallwares Mills: Cotton, Wool, Silk, And",['313221']
+2451,Mobile Homes,['321991']
+635,Surety Insurance,
+9441,"Administration of Social, Human Resource and Income Maintenance P",['923130']
+1031,Lead and Zinc Ores,['212231']
+3953,Marking Devices,['339943']
+594,Miscellaneous Shopping Goods Stores,
+2299,"Textile Goods, Not Elsewhere Classified","['313210', '313312', '313111', '314999', '313113', '313221', '313230', '313111']"
+31,Leather and Leather Products,
+6011,Federal Reserve Banks,['521110']
+8399,"Social Services, Not Elsewhere Classified","['813312', '813319', '813219', '813311', '813212']"
+202,Dairy Products,
+4741,Rental of Railroad Cars,"['488210', '532411']"
+951,Administration of Environmental Quality Programs,
+3582,"Commercial Laundry, Drycleaning, and Pressing Machines",['333312']
+6099,"Functions Related To Depository Banking, Not Elsewhere Classified","['523991', '523130', '522320', '522390']"
+5122,"Drugs, Drug Proprietaries, and Druggists' Sundries","['446191', '425120', '425110', '446120', '446110', '424210']"
+26,Paper and Allied Products,
+3728,"Aircraft Parts and Auxiliary Equipment, Not Elsewhere Classified","['336413', '332912', '541712', '336411']"
+5065,"Electronic Parts and Equipment, Not Elsewhere Classified","['425120', '443112', '425110', '423690', '443120']"
+673,Trusts,
+4513,Air Courier Services,['492110']
+3498,Fabricated Pipe and Pipe Fittings,['332996']
+2711,"Newspapers: Publishing, Or Publishing and Printing","['511110', '519130']"
+6091,Nondeposit Trust Facilities,['523991']
+3593,Fluid Power Cylinders and Actuators,['333995']
+359,Miscellaneous Industrial and Commercial Machinery and Equipment,
+3851,Ophthalmic Goods,"['339115', '339113']"
+7361,Employment Agencies,"['561311', '561312']"
+4911,Electric Services,"['221122', '221121', '221112', '221111', '221113', '221119']"
+2874,Phosphatic Fertilizers,['325312']
+325,Structural Clay Products,
+355,"Special Industry Machinery, except Metalworking Machinery",
+287,Agricultural Chemicals,
+1442,Construction Sand and Gravel,['212321']
+0711,Soil Preparation Services,['115112']
+72,Personal Services,
+1541,General Contractors-industrial Buildings and Warehouses,"['236220', '236210']"
+3812,"Search, Detection, Navigation, Guidance, Aeronautical, and Nautic",['334511']
+2891,Adhesives and Sealants,['325520']
+42,Motor Freight Transportation and Warehousing,
+3577,"Computer Peripheral Equipment, Not Elsewhere Classified","['334119', '334613', '334418']"
+70,"Hotels, Rooming Houses, Camps, and Other Lodging Places",
+3497,Metal Foil and Leaf,"['332999', '322225']"
+4013,Railroad Switching and Terminal Establishments,"['488210', '482112']"
+35,Industrial and Commercial Machinery and Computer Equipment,
+2521,Wood Office Furniture,['337211']
+599,"Retail Stores, Not Elsewhere Classified",
+965,"Regulation, Licensing, and Inspection of Miscellaneous Commercial",
+2491,Wood Preserving,['321114']
+5961,Catalog and Mail-order Houses,"['454112', '454111', '454113']"
+244,Wood Containers,
+7694,Armature Rewinding Shops,"['335312', '811310']"
+5719,Miscellaneous Homefurnishings Stores,"['442291', '442299', '327112']"
+0115,Corn,['111150']
+085,Forestry Services,
+363,Household Appliances,
+7021,Rooming and Boarding Houses,['721310']
+2262,Finishers of Broadwoven Fabrics of Manmade Fiber and Silk,['313311']
+203,"Canned, Frozen, and Preserved Fruits, Vegetables, and Food Special",
+2295,"Coated Fabrics, Not Rubberized",['313320']
+131,Crude Petroleum and Natural Gas,
+3423,"Hand and Edge Tools, except Machine Tools and Handsaws",['332212']
+3312,"Steel Works, Blast Furnaces (including Coke Ovens), and Rolling M","['324199', '331111', '331221']"
+53,General Merchandise Stores,
+109,Miscellaneous Metal Ores,
+2875,"Fertilizers, Mixing Only",['325314']
+6211,"Security Brokers, Dealers, and Flotation Companies","['523910', '523999', '523120', '523110']"
+5945,"Hobby, Toy, and Game Shops",['451120']
+0214,Sheep and Goats,"['112420', '112410']"
+822,"Colleges, Universities, Professional Schools, and Junior Colleges",
+5012,Automobiles and Other Motor Vehicles,"['425120', '425110', '423110']"
+47,Transportation Services,
+331,"Steel Works, Blast Furnaces, and Rolling and Finishing Mills",
+8412,Museums and Art Galleries,"['712110', '712120']"
+953,Administration of Housing and Urban Development Programs,
+0279,"Animal Specialties, Not Elsewhere Classified","['112910', '112990', '112519']"
+8231,Libraries,['519120']
+7819,Services Allied To Motion Picture Production,"['561311', '512199', '711510', '541690', '532490', '334612', '541214', '512191', '532220']"
+2062,Cane Sugar Refining,['311312']
+679,Miscellaneous Investing,
+5399,Miscellaneous General Merchandise Stores,"['452990', '452910']"
+5085,Industrial Supplies,"['425120', '425110', '423830', '423840', '453998']"
+484,Cable and Other Pay Television Services,
+213,Chewing and Smoking Tobacco and Snuff,
+483,Radio and Television Broadcasting Stations,
+489,"Communications Services, Not Elsewhere Classified",
+3011,Tires and Inner Tubes,['326211']
+2053,"Frozen Bakery Products, except Bread",['311813']
+2843,"Surface Active Agents, Finishing Agents, Sulfonated Oils, and Ass",['325613']
+6282,Investment Advice,"['523930', '523920']"
+7622,Radio and Television Repair Shops,"['238290', '443112', '811211', '811213']"
+999,Nonclassifiable Establishments,
+38,"Measuring, Analyzing and Controlling Instruments; Photographic, Medical An",
+4215,"Courier Services, except By Air","['492110', '492210']"
+8249,"Vocational Schools, Not Elsewhere Classified","['611512', '611519', '611513']"
+24,"Lumber and Wood Products, except Furniture",
+671,Holding Offices,
+2095,Roasted Coffee,['311920']
+503,Lumber and Other Construction Materials,
+9511,Air and Water Resource and Solid Waste Management,['924110']
+632,Accident and Health Insurance and Medical Service Plans,
+5713,Floor Covering Stores,['442210']
+3151,Leather Gloves and Mittens,"['315992', '315211', '315212']"
+3942,Dolls and Stuffed Toys,['339931']
+3172,"Personal Leather Goods, except Women's Handbags and Purses","['316993', '339914']"
+5661,Shoe Stores,['448210']
+104,Gold and Silver Ores,
+1382,Oil and Gas Field Exploration Services,"['213112', '541360']"
+9661,Space Research and Technology,['927110']
+3692,"Primary Batteries, Dry and Wet",['335912']
+222,"Broadwoven Fabric Mills, Manmade Fiber and Silk",
+6162,Mortgage Bankers and Loan Correspondents,"['522390', '522292']"
+353,"Construction, Mining, and Materials Handling Machinery and Equipme",
+5063,"Electrical Apparatus and Equipment, Wiring Supplies, and Construc","['425120', '425110', '423610', '444190']"
+2841,"Soap and Other Detergents, except Specialty Cleaners",['325611']
+371,Motor Vehicles and Motor Vehicle Equipment,
+3764,Guided Missile and Space Vehicle Propulsion Units and Propulsion,"['336415', '541712']"
+013,"Field Crops, except Cash Grains",
+9999,Nonclassifiable Establishments,
+317,Handbags and Other Personal Leather Goods,
+3915,"Jewelers' Findings and Materials, and Lapidary Work","['334518', '339913']"
+3844,X-ray Apparatus and Tubes and Related Irradiation Apparatus,['334517']
+345,"Screw Machine Products, and Bolts, Nuts, Screws, Rivets, and Washe",
+1721,Painting and Paper Hanging,"['238320', '237310']"
+559,"Automotive Dealers, Not Elsewhere Classified",
+284,"Soap, Detergents, and Cleaning Preparations; Perfumes, Cosmetics,",
+8631,Labor Unions and Similar Labor Organizations,['813930']
+2396,"Automotive Trimmings, Apparel Findings, and Related Products","['315999', '315211', '323113', '336360', '314999', '315212']"
+8712,Architectural Services,['541310']
+3322,Malleable Iron Foundries,['331511']
+9651,"Regulation, Licensing, and Inspection of Miscellaneous Commercial",['926150']
+01,Agricultural Production-crops,
+273,Books,
+3581,Automatic Vending Machines,['333311']
+3599,"Industrial and Commercial Machinery and Equipment, Not Elsewhere","['333319', '332999', '336399', '332813', '332710', '333999', '334519']"
+4613,Refined Petroleum Pipelines,['486910']
+2077,Animal and Marine Fats and Oils,"['311613', '311711', '311712']"
+0111,Wheat,['111140']
+3221,Glass Containers,['327213']
+513,"Apparel, Piece Goods, and Notions",
+2426,Hardwood Dimension and Flooring Mills,"['321912', '321113', '321918', '337215']"
+7212,"Garment Pressing, and Agents For Laundries and Drycleaners",['812320']
+2824,"Manmade Organic Fibers, except Cellulosic",['325222']
+9631,"Regulation and Administration of Communications, Electric, Gas, A",['926130']
+4131,Intercity and Rural Bus Transportation,['485210']
+7373,Computer Integrated Systems Design,['541512']
+7533,Automotive Exhaust System Repair Shops,['811112']
+5714,"Drapery, Curtain, and Upholstery Stores","['314121', '314129', '442291', '451130']"
+14,"Mining and Quarrying of Nonmetallic Minerals, except Fuels",
+4481,"Deep Sea Transportation of Passengers, except By Ferry","['483114', '483112']"
+4729,"Arrangement of Passenger Transportation, Not Elsewhere Classified","['488999', '561599']"
+5995,Optical Goods Stores,"['446130', '339115']"
+526,"Retail Nurseries, Lawn and Garden Supply Stores",
+516,Chemicals and Allied Products,
+8744,Facilities Support Management Services,['561210']
+803,Offices and Clinics of Doctors of Osteopathy,
+387,"Watches, Clocks, Clockwork Operated Devices, and Parts",
+601,Central Reserve Depository Institutions,
+346,Metal Forgings and Stampings,
+4214,Local Trucking With Storage,"['484110', '484210', '484220']"
+2673,"Plastics, Foil, and Coated Paper Bags","['322223', '326111']"
+2273,Carpets and Rugs,['314110']
+3111,Leather Tanning and Finishing,['316110']
+5651,Family Clothing Stores,['448140']
+3496,Miscellaneous Fabricated Wire Products,"['332618', '332214', '333924']"
+4482,Ferries,"['483114', '483212']"
+3171,Women's Handbags and Purses,['316992']
+7215,Coin-operated Laundries and Drycleaning,['812310']
+0273,Animal Aquaculture,"['112519', '112511', '112512']"
+0134,Irish Potatoes,['111211']
+0191,"General Farms, Primarily Crop",['111998']
+1021,Copper Ores,['212234']
+2893,Printing Ink,['325910']
+5046,"Commercial Equipment, Not Elsewhere Classified","['425120', '425110', '423440']"
+3441,Fabricated Structural Metal,['332312']
+5131,"Piece Goods, Notions, and Other Dry Goods","['425120', '313311', '425110', '424310', '313312', '451130']"
+2037,"Frozen Fruits, Fruit Juices, and Vegetables",['311411']
+7534,Tire Retreading and Repair Shops,"['326212', '811198']"
+60,Depository Institutions,
+842,Arboreta and Botanical Or Zoological Gardens,
+3363,Aluminum Die-castings,['331521']
+3511,"Steam, Gas, and Hydraulic Turbines, and Turbine Generator Set Uni",['333611']
+2099,"Food Preparations, Not Elsewhere Classified","['311423', '311823', '311999', '311340', '311911', '311991', '111998', '311212', '311942', '311920', '311830', '311941']"
+4899,"Communications Services, Not Elsewhere Classified","['517919', '812990', '485310', '517410', '517210']"
+5261,"Retail Nurseries, Lawn and Garden Supply Stores","['444220', '444210']"
+367,Electronic Components and Accessories,
+142,"Crushed and Broken Stone, Including Riprap",
+3341,Secondary Smelting and Refining of Nonferrous Metals,"['331314', '331423', '331492']"
+5084,Industrial Machinery and Equipment,"['425120', '425110', '423830']"
+0971,"Hunting and Trapping, and Game Propagation",['114210']
+5015,"Motor Vehicle Parts, Used","['425120', '425110', '423140', '441310']"
+5048,Ophthalmic Goods,"['425120', '425110', '423460']"
+3297,Nonclay Refractories,['327125']
+442,Deep Sea Domestic Transportation of Freight,
+6163,Loan Brokers,['522310']
+637,"Pension, Health, and Welfare Funds",
+7261,Funeral Service and Crematories,"['812220', '812210']"
+083,Forest Nurseries and Gathering of Forest Products,
+3995,Burial Caskets,['339995']
+911,Executive Offices,
+6062,"Credit Unions, Not Federally Chartered",['522130']
+271,"Newspapers: Publishing, Or Publishing and Printing",
+3364,"Nonferrous Die-castings, except Aluminum",['331522']
+2861,Gum and Wood Chemicals,['325191']
+80,Health Services,
+8099,"Health and Allied Services, Not Elsewhere Classified","['621991', '621410', '621999', '541430', '541922']"
+5111,Printing and Writing Paper,"['425120', '425110', '424110', '453210']"
+541,Grocery Stores,
+444,"Water Transportation of Freight, Not Elsewhere Classified",
+8641,"Civic, Social, and Fraternal Associations","['813990', '813410', '921150', '813319']"
+6153,"Short-term Business Credit Institutions, except Agricultural","['522298', '522220', '522210', '522320', '523910']"
