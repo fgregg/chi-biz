@@ -4,7 +4,7 @@ Location of all Chicago Businesses that pay taxes to the state
 # Annual Taxpayer Location Address List
 Source: http://www.revenue.state.il.us/LocalGovernment/Overview/RetailersVerification/locationlist.htm
 
-In Illinois, retailer's recepits are taxed (occupation tax). They pay those taxes by collecting the sales tax paid by purchases (use tax). This list should include all the businesses locations that paid the state collected use tax from buyers and paid occupation tax to Illinois in 2014. That should include all businesses that sold goods subject to tax. This means that businesses that only provide services will not appear in this list, for example barbers, lawyers, and lawn care services.
+In Illinois, retailer's receipts are taxed (occupation tax). They pay those taxes by collecting the sales tax paid by purchases (use tax). This list should include all the businesses locations that paid the state collected use tax from buyers and paid occupation tax to Illinois in 2014. That should include all businesses that sold goods subject to tax. This means that businesses that only provide services will not appear in this list, for example barbers, lawyers, and lawn care services.
 
 Reference: http://www.revenue.state.il.us/businesses/taxinformation/sales/rot.htm
 
