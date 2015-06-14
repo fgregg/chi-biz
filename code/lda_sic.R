@@ -30,33 +30,47 @@ blockIDs <- function(addresses) {
     return(block)
 }
 
-gridIDs <- function(coords) {
-    resolution <- 1000
+fishnet <- function(points, resolution=1000) {
+    coords = coordinates(points)
+    
     grid_origin <- apply(coords, FUN=min, MARGIN=2)
     grid_count <- ceiling(apply(coords,
                                 FUN=max, MARGIN=2)
                           - grid_origin)/resolution
 
-    grid <- SpatialGrid(GridTopology(grid_origin,
-                                     c(resolution, resolution),
-                                     grid_count))
-    proj4string(grid) <- CRS(EPSG.102671)
+    grid <- sp::SpatialGrid(sp::GridTopology(grid_origin,
+                                             c(resolution, resolution),
+                                             grid_count))
+    proj4string(grid) <- sp::CRS(EPSG.102671)
 
-    return(over(businesses, grid))
+    covered_cells <- na.omit(unique(sp::over(points, grid)))
+    
+    grid <- sp::SpatialPixels(sp::SpatialPoints(grid))
+
+    grid <- grid[covered_cells]
+
+    proj4string(grid) <- sp::CRS(EPSG.102671)
+
+    return(grid)
 }
 
 businesses <- read.csv("../data/geocoded_businesses.csv")
 sic <- read.csv("../data/sic.csv")
 
 businesses <- spatialize(businesses)
-businesses$grid <- gridIDs(coordinates(businesses))
+
+chi_grid <- fishnet(businesses, 1000)
+
+businesses$grid <- sp::over(businesses, chi_grid)
 
 businesses$sic <- sic[match(businesses$SIC, sic$code), "name"]
 
 zip_sic_M <- slam::as.simple_triplet_matrix(table(businesses$grid,
                                                   businesses$sic))
 
-model_1 <- topicmodels::LDA(zip_sic_M, 10)
+model_1 <- topicmodels::LDA(zip_sic_M, 20)
 
 topicmodels::terms(model_1, 10)
+
+plot(chi_grid, col=topicmodels::topics(model_1), pch=15, grid=FALSE)
 
