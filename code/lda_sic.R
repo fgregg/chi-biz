@@ -59,18 +59,21 @@ sic <- read.csv("../data/sic.csv")
 
 businesses <- spatialize(businesses)
 
-chi_grid <- fishnet(businesses, 1000)
+chi_grid <- fishnet(businesses, 2000)
 
 businesses$grid <- sp::over(businesses, chi_grid)
 
 businesses$sic <- sic[match(businesses$SIC, sic$code), "name"]
 
-zip_sic_M <- slam::as.simple_triplet_matrix(table(businesses$grid,
-                                                  businesses$sic))
+grid_sic_M <- slam::as.simple_triplet_matrix(table(businesses$grid,
+                                                   businesses$sic))
 
-model_1 <- topicmodels::LDA(zip_sic_M, 20)
+model_1 <- topicmodels::LDA(grid_sic_M, 10)
 
 topicmodels::terms(model_1, 10)
 
-plot(chi_grid, col=topicmodels::topics(model_1), pch=15, grid=FALSE)
+chi_grid <- sp::SpatialPixelsDataFrame(chi_grid,
+                                       data.frame(topic=topicmodels::topics(model_1)))
+
+image(chi_grid['topic'], col=palette())
 
